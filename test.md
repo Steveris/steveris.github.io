@@ -21,7 +21,7 @@ This sucks more balls than a toothless hooker.
 ## Test 2
 ### Test 3
 
-[Entity Classification Index]{index.md)
+[Entity Classification Index](index.md)
 
 `Containment-Alpha` protocol.
 
