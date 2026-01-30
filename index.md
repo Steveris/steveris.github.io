@@ -45,7 +45,6 @@ The Department operates under the international agreement via the **Treaty of Di
 > <span style="font family: 'Herr Von Muellerhoff';
 > font-size: 1.9rem;
 > letter-spacing: 0.04em;
-> color: #1a1a1a;">E Blackstone</span>, PhD
-> E Blackstone, PhD  
+> color: #1a1a1a;">E Blackstone</span>, PhD  
 > **Doctor Eleanor Blackstone, PhD**  
 > **12th Director, Department of Special Affairs**
