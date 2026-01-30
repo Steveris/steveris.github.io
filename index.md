@@ -3,7 +3,7 @@ layout: home
 title: Onboarding
 ---
 
-# <span style=text-align: center;><u>Onboarding</span></u>
+# <span style="text-align: center;"><u>Onboarding</span></u>
 
 > **Subject**: Onboarding  
 > **Clearance Level**: Field Operative - Provisional  
