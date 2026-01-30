@@ -43,7 +43,7 @@ The Department operates under the international agreement via the **Treaty of Di
 
 > **Signed**,
 > <span style="font-family: 'Herr Von Muellerhoff', cursive;
-> font-size: 1.05rem;
+> font-size: 1.5rem;
 > letter-spacing: 0.04em;
 > color: #1a1a1a;">E Blackstone</span>, PhD  
 > **Doctor Eleanor Blackstone, PhD**  
