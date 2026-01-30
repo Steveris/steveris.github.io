@@ -1,6 +1,6 @@
 .site-title {
   display: flex;
-  align-items: right;   // vertical centering inside hover box
+  align-items: center;   // vertical centering inside hover box
   font-size: 0.75rem;
   line-height: 1;
   letter-spacing: 0.05rem;
@@ -22,7 +22,7 @@ code {
   background-color: #000;
   color: #4AF262;
   font-family: "VT323", monospace;
-  font-size: 1rem;        // slightly larger than body
+  font-size: 0.95em;        // slightly larger than body
   padding: 0.1em 0.3em;
 }
 
@@ -32,7 +32,7 @@ pre {
   background-color: #000;
   color: #4AF262;
   font-family: "VT323", monospace;
-  font-size: 1rem;      // noticeably larger
+  font-size: 1.05rem;      // noticeably larger
   line-height: 1.3;
   padding: 1rem;
   border: 2px solid #111;  // optional: “screen frame”
