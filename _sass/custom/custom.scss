@@ -27,8 +27,14 @@ code {
 }
 
 pre {
+  background-image: linear-gradient(
+    rgba(0, 255, 0, 0.03) 50%,
+    transparent 50%
+  );
+  background-size: 100% 2px;
   background-color: #000;
   color: #4AF262;
+  box-shadow: inset 0 0 0 2px #0f0;
   font-family: "VT323", monospace;
   font-size: 1rem;      // noticeably larger
   line-height: 1.3;
