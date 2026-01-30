@@ -1,9 +1,11 @@
 .site-title {
+  display: flex;
+  align-items: center;   // vertical centering inside hover box
   font-size: 0.75rem;
-  line-height: 1.0rem;    // readable but still compact
+  line-height: 1;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  margin: 0;              // remove default margins that add weird spacing
+  padding: 0.35rem 0;    // ensures text stays inside red hover bg
 }
 
 .site-header {
