@@ -1,6 +1,7 @@
 .site-title {
   display: flex;
   align-items: center;   // vertical centering inside hover box
+  text-align: center;
   font-size: 0.75rem;
   line-height: 1;
   letter-spacing: 0.05rem;
@@ -63,7 +64,7 @@ hr {
 }
 
 h1, h2, h3, h4 {
-  align-items: center;
+  text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
