@@ -29,4 +29,15 @@ This sucks more balls than a toothless hooker.
 Woah, what's going on?
 ```
 <div class="notice">
-WARNING: UNAUTHORIZED
+Warning: unauthorized disclosure of entity information
+constitutes a federal offense under statue ██████.
+</div>div>
+
+> NOTE: Field agents are reminded that civilian memory
+> alteration requires Form 12-B authorization.
+
+---
+Big line
+
+*Italics*
+**Bold**
