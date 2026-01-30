@@ -15,7 +15,7 @@ Congratulations Agent on your formal introduction into the **Department of Speci
 
 
 <div class="notice">
-  <span style="color: #7a1f1f;", "text-align: center;">
+  <span style="color: #7a1f1f;" , "text-align: center;">
     <b>UNAUTHORIZED ACCESS, DISTRIBUTION, OR STORAGE OF CLASSIFIED MATERIAL IS A FEDERAL OFFENSE</b>
   </span>
 
