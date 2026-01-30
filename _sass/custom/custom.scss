@@ -20,16 +20,14 @@
 
 code {
   background-color: #000;
+  color: #4AF262;
   font-family: "VT323", monospace;
   font-size: 1rem;        // slightly larger than body
   padding: 0.1em 0.3em;
 }
 
 pre {
-  background-image: linear-gradient(
-    rgba(0, 255, 0, 0.03) 50%,
-    transparent 50%
-  );
+  box-shadow: inset 0 0 0 2px #0f0;
   background-size: 100% 2px;
   background-color: #000;
   color: #4AF262;
