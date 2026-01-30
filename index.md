@@ -1,5 +1,4 @@
 ---
-title: Home
 layout: home
 title: "<span style='font-size:0.9em'>Department of Special Affairs</span>"
 ---
