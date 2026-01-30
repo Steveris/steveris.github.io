@@ -18,8 +18,6 @@ Congratulations Agent on your formal introduction into the **Department of Speci
   <span style="color: #7a1f1f;"><center>
     <b>UNAUTHORIZED ACCESS, DISTRIBUTION, OR STORAGE OF CLASSIFIED MATERIAL IS A FEDERAL OFFENSE</b>
   </center></span>
-
   <br>
-
   Violations will result in immediate termination of employment, revocation of clearance, federal prosecution under Title 18, and/or countermeasures as deemed appropriate by the <b>Directorate of Integration and Oversight</b>.
 </div>
