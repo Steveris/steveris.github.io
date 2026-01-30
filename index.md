@@ -41,6 +41,11 @@ The Department operates under the international agreement via the **Treaty of Di
   — 11th Director E. Norwood
 </div>
 
-> **Signed**, E Blackstone, PhD  
+> **Signed**,
+> <span style="font family: 'Herr Von Muellerhoff';
+> font-size: 1.9rem;
+> letter-spacing: 0.04em;
+> color: #1a1a1a;">E Blackstone</span>, PhD
+> E Blackstone, PhD  
 > **Doctor Eleanor Blackstone, PhD**  
 > **12th Director, Department of Special Affairs**
