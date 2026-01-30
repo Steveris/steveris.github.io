@@ -1,9 +1,20 @@
 .site-title {
-  font-size: 0.5rem;
+  font-size: 0.85rem;
+  line-height: 1.0rem;    // readable but still compact
   letter-spacing: 0.05rem;
-  line-height: 0.5rem;
   text-transform: uppercase;
   max-width: 24rem;
+  margin: 0;              // remove default margins that add weird spacing
+}
+
+.site-header {
+  height: auto;          // let it expand for wrapped text
+  padding: 0.5rem 1rem;  // optional, gives breathing room
+}
+
+.site-header .container {
+  display: flex;
+  align-items: flex-start; // top-align the site title
 }
 
 .nav-list .nav-list-item > .nav-list-link.active {
