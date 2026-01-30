@@ -18,6 +18,23 @@
   align-items: flex-start; // top-align the site title
 }
 
+code {
+  background-color: #000;
+  font-family: "VT323", monospace;
+  font-size: 1.1em;        // slightly larger than body
+  padding: 0.1em 0.3em;
+}
+
+pre {
+  background-color: #000;
+  color: #4AF262;
+  font-family: "VT323", monospace;
+  font-size: 1.25rem;      // noticeably larger
+  line-height: 1.3;
+  padding: 1rem;
+  border: 2px solid #111;  // optional: “screen frame”
+}
+
 .nav-list .nav-list-item > .nav-list-link.active {
   color: #ffffff;
 }
