@@ -31,7 +31,7 @@ Woah, what's going on?
 <div class="notice">
 Warning: unauthorized disclosure of entity information
 constitutes a federal offense under statue ██████.
-</div>div>
+</div>
 
 > NOTE: Field agents are reminded that civilian memory
 > alteration requires Form 12-B authorization.
