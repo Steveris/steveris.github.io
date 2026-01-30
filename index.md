@@ -18,7 +18,6 @@ Congratulations on your formal introduction into the **Department of Special Aff
   <span style="color: #7a1f1f;"><center>
     <b>UNAUTHORIZED ACCESS, DISTRIBUTION, OR STORAGE OF CLASSIFIED MATERIAL IS A FEDERAL OFFENSE</b>
   </center></span>
-  <br>
   Violations will result in immediate termination of employment, revocation of clearance, federal prosecution under Title 18, and/or countermeasures as deemed appropriate by the <b>Directorate of Integration and Oversight</b>.
 </div>
 
@@ -28,7 +27,7 @@ You will also be responsible for enforcing inter-species law, monitoring superna
 The Department operates under the international agreement via the **Treaty of Disillusionment**, binding recognized non-human Courts and Factions to coexistence protocols. You are expected to honor and enforce this treaty during all field operations.
 
 <div class="notice">
-  <b>"Anomaly is not Immunity. Magic does not place one above the law."</b>  
+  <b>"Anomaly is not Immunity. Magic does not place one above the law."</b><br>
   — 5th Director J. P. Silverton
 </div>
 
@@ -38,7 +37,7 @@ The Department operates under the international agreement via the **Treaty of Di
 - **Enforcement of Law**: All **Elements**- whether recognized as **Integration Candidates (ICs)**, or classified as **Illicit Non-Humans (INHs)**- fall under Departmental jurisdiction when operating within the Department's **Realm of Influence (ROI)**. Agents are authorized to detain, investigate, or neutralize any **Element** in violation of applicable interspecies or local law, supernatural containment statues, or the **Treaty of Disillusionment**.
 
 <div class="notice">
-  <b>"A bullet is just as dangerous as an OP. Assume nothing. Confirm everything."</b>  
+  <b>"A bullet is just as dangerous as an OP. Assume nothing. Confirm everything."</b><br>
   — 11th Director E. Norwood
 </div>
 
