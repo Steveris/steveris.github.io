@@ -20,3 +20,9 @@ title: Standard Field Deployment Package
 | Wristwatch | Various | Digital wristwatches are not permitted. Time accuracy must be within tolerated levels. Manufacturer and design up to the Field Agent's preferences. | INSERT PICTURE |
 | Field Gear | Various | Any piece of equipment that makes sense to be carried on a Field Agent's person such as handcuffs, evidence bags, seals, etc. | INSERT PICTURE |
 
+<div class="notice">
+Personnel are advised that standard field issue is intended to support identification, communication and basic enforcement activities.
+
+Specialized equipment, anomalous materials, or experimental devices are not included unless explicitly authorized.
+</div>
+
