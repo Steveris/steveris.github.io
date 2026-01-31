@@ -29,8 +29,9 @@ Specialized equipment, anomalous materials, or experimental devices are not incl
 > Signed,
 > <span style="
   font-family: 'Fleur De Leah', cursive;
-  font-size: 2.3rem;
+  font-size: 1.4rem;
   letter-spacing: 0.08em;
+  text-shadow: 0 0 1px rgba(122, 31, 31, 0.4);
   color: #3017FE;
 ">ତନମନା ଫସାୱାନା, Tanamana Fasawana</span>  
 > Regent Tanamana Fasawana  
