@@ -26,6 +26,12 @@ Personnel are advised that standard field issue is intended to support identific
 Specialized equipment, anomalous materials, or experimental devices are not included unless explicitly authorized.
 </div>
 
-> Signed,  ତନମନା ଫସାୱାନା  
+> Signed,
+> <span style="
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 2.3rem;
+  letter-spacing: 0.08em;
+  color: #1a1a1a;
+">ତନମନା ଫସାୱାନା</span>
 > Regent Tanamana Fasawana  
 > Division Lead, Logistics, Infrastructure and Facilities (LIF)
