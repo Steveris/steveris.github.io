@@ -1,3 +1,8 @@
+---
+layout: default
+title: Glossary
+---
+
 # Operational Glossary
 
 ### Agent:  
