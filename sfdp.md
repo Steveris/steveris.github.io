@@ -10,9 +10,9 @@ title: Standard Field Deployment Package
 
 | Item | Designation | Notes | Images |
 | ---- | ----------- | ----- | --- |
-| Service Sidearm | SIG-Sauer P226 | Authorized personal sidearms permitted upon approval. Limited to Smith & Wesson or SIG-Sauer manufacture; 9mm or .45 ACP only. | <img src="/assets/images/9mm.png" class="field-kit-image"> |
+| Service Sidearm | SIG-Sauer P226 | Authorized personal sidearms permitted upon approval. Limited to Smith & Wesson or SIG Sauer manufacture; 9mm or .45 ACP only. | <img src="/assets/images/9mm.png" class="field-kit-image"> |
 | Ammunition | Dept. Issue | Sufficient for standard engagement. Limited silver alloy and iron core rounds included. Other variations may be provided. | <img src="/assets/images/bullet.png" class="field-kit-image"> |
-| Field Journal | DSA-FJ-12 | Contains doctrine, classifications, contacts, contact information, codes, and post-mission records. | <img src="/assets/images/journal.png" class="field-kit-image"> |
+| Field Journal | DSA-FJ-12 | Contains doctrine, classifications, contact information, codes, and post-mission records. | <img src="/assets/images/journal.png" class="field-kit-image"> |
 | Identification | Federal Credentials | Badge or identification type varies by mission. | <img src="/assets/images/badge.jpg" class="field-kit-image"> |
 | Radio | Motorola SABER | Encrypted, limited range; interference possible. | <img src="/assets/images/radio.jpg" class="field-kit-image"> | 
 | Flashlight | Maglite 3D/4D | Standard issue. Doubles as a self-defense tool in dire circumstances. | <img src="/assets/images/flashlight.jpg" class="field-kit-image"> |
