@@ -31,7 +31,7 @@ Specialized equipment, anomalous materials, or experimental devices are not incl
   font-family: 'Fleur De Leah', cursive;
   font-size: 2.3rem;
   letter-spacing: 0.08em;
-  color: #1a1a1a;
-">ତନମନା ଫସାୱାନା</span>
+  color: #3017FE;
+">ତନମନା ଫସାୱାନା, Tanamana Fasawana</span>  
 > Regent Tanamana Fasawana  
 > Division Lead, Logistics, Infrastructure and Facilities (LIF)
