@@ -105,6 +105,14 @@ blockquote {
   background-color: #f4f1ea;
 }
 
+.field-kit-image {
+  max-width: 220px;
+  border: 1px solid #222;
+  padding: 4px;
+  background-color: #f4f1ea;
+  filter: contrast(1.05);
+}
+
 .nav-list .nav-list-item > .nav-list-link.active {
   color: #ffffff;
 }
