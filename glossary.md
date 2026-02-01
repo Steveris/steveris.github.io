@@ -28,13 +28,13 @@ The Division that focuses on storing, restraining, potentially suppressing and c
 A black-budget federal agency tasked with the oversight, integration, containment and potential suppression of anomalous phenomena. Agents operate with federal authority and may use FBI identification during field operations for jurisdictional purposes.
 
 ### Division:
-The ten branches to which the Department has been divided. These Divisions are: Analytics, Archives, Containment, Executive, Field, Logistics Infrastructure and Facilities (LIF), Psychological Support Unit (PSU), Relations - Public Interface Division (PID), Research and Development (R&D) and Tactical Response.
+The ten branches to which the Department has been divided. These Divisions are: Analytics, Archives, Containment, Executive, Field, Legal, Logistics Infrastructure and Facilities (LIF), Psychological Support Unit (PSU), Relations - Public Interface Division (PID), Research and Development (R&D) and Tactical Response.
 
 ### Element:
 Any occurrence, object, or entity within the Department's jurisdiction. Includes OPs, Entities, and Anomalies.
 
 ### Entity:
-An individual or creature considered anomalous or non-human. Intelligence, intent, and behaviour vary widely. Subject to integration, containment, or non-interference protocols.
+An anomalous, non-human, or para-human individual subject to Departmental Jurisdiction. Intelligence, intent, and behaviour vary widely. Subject to integration, containment, or non-interference protocols.
 
 ### Executive:
 The Division that focuses on the management of other Divisions and the operations of the Department at large. The Director and other managers all belong to the Executive Division. Beyond basic management, internal enforcement, and auditing other Departments, the Executive Division also focuses on the bigger picture and is tasked with keeping all operations within the scope of the Department.
@@ -43,10 +43,13 @@ The Division that focuses on the management of other Divisions and the operation
 The Division most likely to directly interact with INHs, Anomalies, dangerous OPs in high stress, and complicated environments. They are the boots on the ground, the basic enforcement of laws, and the front line investigators of suspected breaches of law, or anomalous activity. They operate in small teamsbetween two and five Agents, and may have temporary members from the Executive, Analytics, Containment, or Tactical Response.
 
 ### Illicit Non-Human (INH):
-A classification applied to any Entity that has failed to comply with Department-mandated integration protocols, operates without recognition of the Treaty of Disillusionment, or is in direct violation of Departmental statutes. INHs may be formerly registered ICs whose status has been revoked, or entirely unknown Entities discovered through fieldwork or incident reports.
+A classification applied to any Entity that has failed to comply with Department-mandated integration protocols. These Entities often operate without recognition of the Treaty of Disillusionment, or are in direct violation of Departmental statutes. INHs may be formerly registered ICs whose status has been revoked, or entirely unknown Entities discovered through fieldwork or incident reports.
 
 ### Integration Candidate (IC):
 An Entity approved to live among humans under Departmental oversight. Often registered under Relations Division. Requires regular check-ins and monitoring.
+
+### Legal:
+The Division that is tasked with interfacing with human legal systems when Department activities overlap  but are individuals that are well versed in 
 
 ### Logistics, Infrastructure and Facilities (LIF):
 
