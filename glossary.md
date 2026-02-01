@@ -5,6 +5,11 @@ title: Glossary
 
 # Operational Glossary
 
+| Name | Description |
+| ---- | ----------- |
+| ### Agent | An individual formally authorized to act on behalf of the Department. Agents are assigned to one multi-operational branch (SEE: Division). |
+| ### Penis | penis penis penis |
+
 ### Agent:  
 An individual formally authorized to act on behalf of the Department. Agents are assigned to one multi-operational branch (SEE: Division).  
 
@@ -37,7 +42,10 @@ Any occurrence, object, or entity within the Department's jurisdiction. Includes
 An individual or creature considered anomalous or non-human. Intelligence, intent, and behaviour vary widely. Subject to integration, containment, or non-interference protocols.
 
 ### Executive:
+The Division that focuses on the management of other Divisions and the operations of the Department at large. The Director and other managers all belong to the Executive Division. Beyond basic management, internal enforcement, and auditing other Departments, the Executive Division also focuses on the bigger picture and is tasked with keeping all operations within the scope of the Department.
 
+### Field:
+The Division most likely to directly interact with INHs, Anomalies, dangerous OPs in high stress, and complicated environments. They are the boots on the ground, the basic enforcement of laws, and the front line investigators of suspected breaches of law, or anomalous activity. They operate in small teamsbetween two and five Agents, and may have temporary members from the Executive, Analytics, Containment, or Tactical Response.
 
 ### Illicit Non-Human (INH):
 A classification applied to any Entity that has failed to comply with Department-mandated integration protocols, operates without recognition of the Treaty of Disillusionment, or is in direct violation of Departmental statutes. INHs may be formerly registered ICs whose status has been revoked, or entirely unknown Entities discovered through fieldwork or incident reports.
