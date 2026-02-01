@@ -28,7 +28,7 @@ The Division that focuses on storing, restraining, potentially suppressing and c
 A black-budget federal agency tasked with the oversight, integration, containment and potential suppression of anomalous phenomena. Agents operate with federal authority and may use FBI identification during field operations for jurisdictional purposes.
 
 ### Division:
-The ten branches to which the Department has been divided. These Divisions are: Analytics, Archives, Containment, Executive, Field, Logistics and Infrastructure (LIF), Psychological Support Unit (PSU), Relations - Public Interface Division (PID), Research and Development (R&D) and Tactical Response.
+The ten branches to which the Department has been divided. These Divisions are: Analytics, Archives, Containment, Executive, Field, Logistics Infrastructure and Facilities (LIF), Psychological Support Unit (PSU), Relations - Public Interface Division (PID), Research and Development (R&D) and Tactical Response.
 
 ### Element:
 Any occurrence, object, or entity within the Department's jurisdiction. Includes OPs, Entities, and Anomalies.
@@ -48,14 +48,29 @@ A classification applied to any Entity that has failed to comply with Department
 ### Integration Candidate (IC):
 An Entity approved to live among humans under Departmental oversight. Often registered under Relations Division. Requires regular check-ins and monitoring.
 
+### Logistics, Infrastructure and Facilities (LIF):
+
+
 ### Non-Element:
 Any individual, object, or event considered outside the Department's jurisdiction. Reclassification may occur at any time via Directorial or Interdepartmental Authority.
 
 ### Object of Power (OP):
 A mundane object exhibiting persistent or situational anomalous traits. Origins unknown. Do not interact with potential OPs without appropriate clearance and suppression tools.
 
+### Psychological Support Unit (PSU):
+
+
 ### Realm of Influence (ROI):
 The geographic, and metaphysical scope within which the DSA exercises full investigative, regulatory, and enforcement authority.
+
+### Relations - Public Interface Division (PID):
+
+
+### Research and Development (R&D):
+
+
+### Tactical Response:
+
 
 ### Treaty of Disillusionment:
 The international binding agreement between humanity and the majority of non-human Courts, Alliances, Factions, Covens, and groups. This Treaty requires mutual secrecy, controlled integration, and non-aggression. Violations are to be reported immediately.
