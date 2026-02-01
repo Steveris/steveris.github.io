@@ -23,7 +23,7 @@ You have been formally inducted into the **Department of Special Affairs (DSA)**
 </div>
 
 ## Your Mission  
-As a Field [Agent](glossary.html#agent), you will be tasked with the investigation, containment, and regulation of **Elements** that present an anomalous deviation from accepted natural law. These include, but are not limited to **Entities**, **Anomalies**, and **Objects of Power (OPs)**.  
+As a [Field](glossary.html#field) [Agent](glossary.html#agent), you will be tasked with the investigation, containment, and regulation of **Elements** that present an anomalous deviation from accepted natural law. These include, but are not limited to **Entities**, **Anomalies**, and **Objects of Power (OPs)**.  
 Field Agents are responsible for enforcement of inter-species law, monitoring supernatural integration, identifying unauthorized arcane practices, and maintaining the ongoing **concealment** of anomalous phenomena from public awareness.  
 The Department operates pursuant to the **Treaty of Disillusionment**. Field Agents are expected to comply with all enforcement, mediation, and reporting obligations arising under the Treaty during all field operations.
 
