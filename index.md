@@ -19,7 +19,7 @@ You have been formally inducted into the **Department of Special Affairs (DSA)**
   <span style="color: #7a1f1f;"><center>
     <b>UNAUTHORIZED ACCESS, DISTRIBUTION, OR STORAGE OF CLASSIFIED MATERIAL IS A FEDERAL OFFENSE</b>
   </center></span>
-  Violations will result in administrative, legal, and security countermeasures as deemed appropriate by the Department Executive Authority.
+  Violations will result in administrative, legal, and security countermeasures as deemed appropriate by the Department's Executive Division.
 </div>
 
 ## Your Mission  
