@@ -6,23 +6,38 @@ title: Glossary
 # Operational Glossary
 
 ### Agent:  
-An individual formally authorized to act on behalf of the Department. Agents assigned to one multiple operational branches including Analytics, Archives, Containment, Field, Relations, R&D and Tactical Response.  
+An individual formally authorized to act on behalf of the Department. Agents are assigned to one multi-operational branch (SEE: Division).  
+
+### Analytics:
+The Division tasked with detecting potential threats to the Treaty, Agents, anomalous behaviour, and performs any research that aids the Agent in enforcing inter-species law. They tend to focus on potential breaches of law, aiding in enforcement.
+
+### Anomaly:  
+An irregular or spontaneous event, phenomenon, or environmental distortion falling outside accepted physical or metaphysical norms.
+
+### Archives:  
+The Division tasked with storing, recording, archiving, and studying anything that is not considered (potentially) dangerous. This includes ancient tomes, scrolls, manuscripts, tablets, or anything else deemed of relevance that does not pose an immediate threat to those around it.  
 <div class="notice">
   <span style="color: #7a1f1f;"> DO NOT enter Archives without explicit Level 5 authorization.
   </span>
 </div>
 
-### Anomaly:  
-An irregular or spontaneous event, phenomenon, or environmental distortion falling outside accepted physical or metaphysical norms.
+### Containment:
+The Division that focuses on storing, restraining, potentially suppressing and cataloging anything considered potentially dangerous. This could be potentially dangerous OPs, Entities, or any other Element that may not have a classification.
 
 ### Department of Special Affairs:  
 A black-budget federal agency tasked with the oversight, integration, containment and potential suppression of anomalous phenomena. Agents operate with federal authority and may use FBI identification during field operations for jurisdictional purposes.
+
+### Division:
+The ten branches to which the Department has been divided. These Divisions are: Analytics, Archives, Containment, Executive, Field, Logistics and Infrastructure (LIF), Psychological Support Unit (PSU), Relations - Public Interface Division (PID), Research and Development (R&D) and Tactical Response.
 
 ### Element:
 Any occurrence, object, or entity within the Department's jurisdiction. Includes OPs, Entities, and Anomalies.
 
 ### Entity:
 An individual or creature considered anomalous or non-human. Intelligence, intent, and behaviour vary widely. Subject to integration, containment, or non-interference protocols.
+
+### Executive:
+
 
 ### Illicit Non-Human (INH):
 A classification applied to any Entity that has failed to comply with Department-mandated integration protocols, operates without recognition of the Treaty of Disillusionment, or is in direct violation of Departmental statutes. INHs may be formerly registered ICs whose status has been revoked, or entirely unknown Entities discovered through fieldwork or incident reports.
