@@ -7,7 +7,7 @@ title: Glossary
 
 | Name | Description |
 | ---- | ----------- |
-| <h3>Agent</h3> | An individual formally authorized to act on behalf of the Department. Agents are assigned to one multi-operational branch (SEE: Division). |
+| <h4>Agent</h4> | An individual formally authorized to act on behalf of the Department. Agents are assigned to one multi-operational branch (SEE: Division). |
 | <h4>Penis</h4> | penis penis penis |
 
 ### Agent:  
