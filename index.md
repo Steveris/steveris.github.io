@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Induction
+nav_order: 1
 ---
 
 # Field Operative Induction
