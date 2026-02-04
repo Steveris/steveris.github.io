@@ -58,7 +58,7 @@ The Division focuses on operating, maintaining and supplying Department faciliti
 Any individual, object, or event considered outside the Department's jurisdiction. Reclassification may occur at any time via Directorial or Interdepartmental Authority.
 
 ### Object of Power (OP):
-A mundane object exhibiting persistent or situational anomalous traits. Origins unknown. Do not interact with potential OPs without appropriate clearance and suppression tools.
+A mundane object exhibiting persistent or situational anomalous traits. Origins unknown. Do not interact with potential OPs without appropriate clearance and suppression tools. Unauthorized interaction may result in disciplinary or medical review.
 
 ### Psychological Support Unit (PSU):
 Agents within the DSA face high stress and potentially dangerous situations on a daily basis. Within such a high stress environment, there needs to be a Division prioritizes the mental well-being of the DSA's Agents. They track, monitor, study, and provide support for Agents' needs and mental well-being. They also strive for better integration between Human and non-human Agents, seeing it as beneficial for all Agents.
