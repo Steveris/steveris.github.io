@@ -54,6 +54,9 @@ The Division that is tasked with interfacing with legal systems when Department 
 ### Logistics, Infrastructure and Facilities (LIF):
 The Division focuses on operating, maintaining and supplying Department facilities. Janitorial, basic maintenance, supplies, the cafeteria and many other jobs are run by this Division.
 
+### Metaphysical Space
+Non-Earthbound environments. These are any space beyond Earth that Elements are derived. They vary wildly from the Fey Courts, to various depictions of Hell and the Spirit Realm. (SEE: Field Operations Manual: Metaphysical Spaces).
+
 ### Non-Element:
 Any individual, object, or event considered outside the Department's jurisdiction. Reclassification may occur at any time via Directorial or Interdepartmental Authority.
 
@@ -67,13 +70,13 @@ Agents within the DSA face high stress and potentially dangerous situations on a
 The geographic, and metaphysical scope within which the DSA exercises full investigative, regulatory, and enforcement authority.
 
 ### Relations - Public Interface Division (PID):
-
+This Division focuses on spin, deception, and diplomacy. They negotiate treaties, deals, and alliances with various Entities and organizations. They are also the organization that suppresses, twists, spins, and creates various pieces of media to misinform, desensitize and disillusion the masses. Because of their efforts in movies such as the Exorcist, many people believe possession is simply movie nonsense. Also because of the Exorcist, many individuals that do believe in possession believe some obviously incorrect information which serves the purposes of the Treaty of Disillusionment.
 
 ### Research and Development (R&D):
-
+This Division studies, analyzes, and researches not only new technology, devices and paracausal capabilities derived from Metaphysical Spaces. It also studies varioius Elements to aid in the efforts of Field Agents and other teams in the pursuit of the Department's operations and goals.
 
 ### Tactical Response:
-
+The paramilitary branch of the Department. When negotiation fails or was never an option, Tactical Response is called in. They are often the last resort, and when deployed they are often working in tandem with Containment to contain the situation. When lives are on the line, and a hyper-aggressive Entity is wreaking havok, Tactical Response is called to put it down if Containment isn't an option. If you are an INH, the last thing you want to see is Tactical Response on your doorstep.
 
 ### Treaty of Disillusionment:
 The international binding agreement between humanity and the majority of non-human Courts, Alliances, Factions, Covens, and groups. This Treaty requires mutual secrecy, controlled integration, and non-aggression. Violations are to be reported immediately.
