@@ -84,4 +84,4 @@ The international binding agreement between humanity and the majority of non-hum
 ### Veil Incident:
 Any event in which civilians are exposed to an Element or anomalous activity. Requires immediate response, cognitive suppression measures, misinformation deployment, and containment.
 
-> Acknowledgment of Receipt _____________________________
+> Acknowledgment of Receipt _____________________________________________________________________________________
