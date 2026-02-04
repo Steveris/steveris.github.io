@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Operation Manual - Glossary
+title: Field Operations Manual - Glossary
 ---
 
 # Operational Glossary
