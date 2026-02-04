@@ -82,4 +82,4 @@ The paramilitary branch of the Department. When negotiation fails or was never a
 The international binding agreement between humanity and the majority of non-human Courts, Alliances, Factions, Covens, and groups. This Treaty requires mutual secrecy, controlled integration, and non-aggression. Violations are to be reported immediately.
 
 ### Veil Incident:
-Any event in which civilians are exposed to an Element or anomalous activity. Requires immediate response, memory suppression, misinformation deployment, and containment.
+Any event in which civilians are exposed to an Element or anomalous activity. Requires immediate response, cognitive suppression measures, misinformation deployment, and containment.
