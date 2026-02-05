@@ -1,6 +1,8 @@
 ---
 title: Field Operations Manual
 layout: default
+nav_order: 20
+has_children: yes
 ---
 
 # Field Operations Manual
