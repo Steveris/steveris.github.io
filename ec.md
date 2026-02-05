@@ -8,5 +8,5 @@ This section of the Field Operations Manual provides foundational reference mate
 <div class="notice">
   Failure to recognize an Element is not grounds for disciplinary action.<br>
   Failure to report one is.<br>
-  — Commander Ruth Calder, Tactical Response, February 12, 1987
+  — Commander Ruth Calder, Tactical Response, 1987
 </div>
