@@ -1,5 +1,5 @@
 ---
-title: Field Operations Manual - Elemental Classification
+title: Elemental Classification
 layout: default
 parent: Field Operations Manual
 nav_order: 10
