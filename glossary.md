@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Field Operations Manual - Glossary
+title: Glossary
+parent: Field Operations Manual
 nav_order: 99
 ---
 
