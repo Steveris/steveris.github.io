@@ -8,8 +8,8 @@ nav_order: 20
 # Entity Taxonomy
 
 ## Aberrant
-<img src="/assets/images/aberrant.jpg"></img>  
 A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behaviorial, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models.  
+<img src="/assets/images/aberrant.jpg">  
 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
