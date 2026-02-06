@@ -10,7 +10,6 @@ nav_order: 20
 ## Aberrant
 A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behaviorial, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models.  
 <img src="/assets/images/aberrant.jpg">  
-
 <details><summary><b>SUBTYPES</b></summary>
   <table>
     <tr>
@@ -42,8 +41,7 @@ A provisional Entity classification applied to lifeforms that do not conform to 
 
 ## Amorphous
 Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutable in form. Amorphous entities do not rely on skeletal or rigid frameworks for movement or interaction. While many are composed of biolgocail or pseudo-biological material (e.g. slime, protoplasm, ecto-organic matter), some derive from nonstandard states of matter such as phase-fluidic plasma, quantum foam or metaphysical residue.  
-<img src="/assets/images/amorphous.jpg"> 
-
+<img src="/assets/images/amorphous.jpg">  
 <details><summary><b>SUBTYPES</b></summary>
   <table>
      <tr>
@@ -71,8 +69,7 @@ Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutab
 
 ## Artificial
 Entities intentionally or accidentally created through non-natural means, typically by sapient intervention (magical, technological, or alchemical). Artificial entities are defined by their constructed nature; whether their form, function, or consciousness originates from deliberate design or emergent self-assembly. Their intelligence ranges from rudimentary automation to sapient, emotionally complex minds.  
-<img src="/assets/images/artificial.jpg"> 
-
+<img src="/assets/images/artificial.jpg">  
 <details><summary><b>SUBTYPES</b></summary>
   <table>
     <tr>
@@ -82,6 +79,18 @@ Entities intentionally or accidentally created through non-natural means, typica
     <tr>
       <td>Constructs</td>
       <td>Mechanically or magically animated devices, often created to serve a specific function (guard, labor, surveillance). Behavior ranges from simple programming to limited adaptive logic. Vulnerabilities depend on power source and construction material.</td>
+    </tr>
+    <tr>
+      <td>Homunculi</td>
+      <td>Alchemically synthesized humanoids, typically created to act as familiars, assistants, or proxy bodies. Intelligence varries; some exhibit childlike minds, others mimic full adult cognition. Prone to identity crises, emotional instability, or rebellion if exposed to trauma or extended separation from creator.</td>
+    </tr>
+    <tr>
+      <td>Egoarts (OPs with consciousness)</td>
+      <td>OPs that have developed or been embedded with self-awareness. They blur the line between Entity and OP. May have originated as non-sapient OPs but gained consciousness through prolonged human interaction, exposure to MS, or deliberate ritual. Capable of autonomous decision-making, emotional response, or manipulation of bonded users. Egoarts may shift form, function or alignment based on relationship with wielder. Some are cooperative; others parasitic, domineering, or unpredictable. Containment protocols require psychological screening of users and symbolic neutralization.</td>
+    </tr>
+    <tr>
+      <td>Golems</td>
+      <td>Traditional element-bound constructs formed from clay, stone, metal, or rare materials, animated through sacred or structured language. Often tasked with protection or punishment. Emotionally inert but unyielding.</td>
     </tr>
   </table>
 </details>
