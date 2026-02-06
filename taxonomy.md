@@ -168,7 +168,7 @@ Seemingly benevolent or neutral metaphysical beings often interpreted as angels,
 </details>
 
 ## Cryptid
-Cryptids are biologically anomalous entities typically located in remote, liminal, or topologically unstable regions. Their origins vary; some are relics of extinct species preserved in cryptotemporal anomalies or time dilated Metaphysical Spaces (MS), others are emergent bioforms shaped by prolonged anomalous exposure, or entirely undocumented evolution outside known phylogenetic trees. The majority are regionally bound, with their activity often (but not always) correlating to Class-Gate Anomalies.
+Cryptids are biologically anomalous entities typically located in remote, liminal, or topologically unstable regions. Their origins vary; some are relics of extinct species preserved in cryptotemporal anomalies or time dilated Metaphysical Spaces (MS), others are emergent bioforms shaped by prolonged anomalous exposure, or entirely undocumented evolution outside known phylogenetic trees. The majority are regionally bound, with their activity often (but not always) correlating to Class-Gate Anomalies.  
 <img src="/assets/images/cryptids.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -208,7 +208,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
 </details>
 
 ## Cryptoflora
-Plant-like organisms that exhibit anomalous or metaphysical properties inconsistent with known biology or ecological laws. Origins range from MS exposure events, mutation via anomaly contact, extradimensional seedfall, failed biogenesis rituals, or adaptive evolutoni in ontologically unstable regions. Unlike standard flora, Cryptoflora may display locomotion, cognition, interdimensional phasing, or non-terrestrial metabolic processes (e.g. feeding on emotion, memory, sound, or concepts).
+Plant-like organisms that exhibit anomalous or metaphysical properties inconsistent with known biology or ecological laws. Origins range from MS exposure events, mutation via anomaly contact, extradimensional seedfall, failed biogenesis rituals, or adaptive evolutoni in ontologically unstable regions. Unlike standard flora, Cryptoflora may display locomotion, cognition, interdimensional phasing, or non-terrestrial metabolic processes (e.g. feeding on emotion, memory, sound, or concepts).  
 <img src="/assets/images/cryptoflora.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -268,7 +268,7 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
 </details>
 
 ## Dragon
-
+Ancient, sapient NHEs associated with dominance, accumulation, strategic manipulation, and long-term influence. Dragons do not simply hoard material wealth: they accumulate *significance*. Despite their ancient legacy, most Dragons today are undocumented Illicit Non-Humans (INHs), their numbers diminished by the historical Saint George Campaign (11th-13th Century CE). Surviving Dragons operate via embedded personas, shell conglomerates, arcane cults, or digital proxies, exercising influence across human systems while keeping their true nature hidden.  
 <img src="/assets/images/dragon.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -277,14 +277,26 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>European (Extinct)</td>
+      <td>Large quadrupedal Entities with batlike wings, associated with fire, sovereignty, and tyranical mythos. Exhibited a wide array of capabilities. The last sighting of a European Dragon occurred during the Saint George's extinction campaigns (~11th century CE).</td>
+    </tr>
+    <tr>
+      <td>Asian</td>
+      <td>Long-bodied, serpentine, and wingless. Asian Dragons possess a strong affinity for water or sky, and dreams. Known to engage with human society through veiled dynastic patronage and spiritual cults. Several Integration Candidates (ICs) exist under Departmental observation; a significantly larger hidden population is suspected to operate as INHs.</td>
+    </tr>
+    <tr>
+      <td>African</td>
+      <td>Regarded by some scholars as the oldest extant Dragon lineage, African Dragons often concern themselves with traditional tribal territories, not the borders established by former European conquerers. They rarely seek integration, but do not attempt to hide as thoroughly as their Asian counterparts. Some show cooperative behavior when approached by DSA and their international allies.</td>
+    </tr>
+    <tr>
+    <td>Spectral (Spiritus Draconis)</td>
+    <td>Echoes, ghosts, or memory-patterns of Dragons slain in metaphysically traumatic ways. Frequently (but not always) attaches to powerful human individuals, especially those with compulsive acquisitive behavior. Though whether this behavior is due to the Spiritus Draconis, or was what attracted the possession, it is unclear. Manifestation almost always occurs without the host's awareness. Influences decision-making, exacerbates hoarding.</td>
     </tr>
   </table>
 </details>
 
 ## Elemental
-
+A classification of Entities typically originating from strongly elementally attuned Metaphysical Spaces (MS). Elementals may arise naturally within these environments or be artificially summoned, constructed, or bound by Para-Humans, NHEs, or other metaphysically capable actors. While many Elementals demonstrate limited cognition and operate primarily on instinctual programming, rare instances exhibit autonomous reasoning, behavioral learning, or linguistic mimicry.  
 <img src="/assets/images/elemental.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -293,14 +305,34 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Energy Elementals</td>
+      <td>Composed of volatile or radiant energies, including plasma, fire, electricity, or thermic resonance. These are typically unstable and possess high kinetic or thermal output. <br>See: <b>Energy Beings</b></td>
+    </tr>
+    <tr>
+      <td>Solid Elementals</td>
+      <td>Comprised of condensed material matter such as stone, metal, wood, crystal, or most forms of biomass. These tend to exhibit durable structure and predictable patterns of behavior.</td>
+    </tr>
+    <tr>
+      <td>Fluid Elementals</td>
+      <td>Composed of liquids or particulate suspensions, including water, oil, acid, vapour, and some other forms of biomass. Often demonstrate shape instability and high environmental adaptability.</td>
+    </tr>
+    <tr>
+      <td>Atmospheric Elementals</td>
+      <td>Comprised of gaseous or meteorological components, such as wind, cloud, smoke, or stormfront patterns. Frequently misclassified under <b>High Concepts</b>, specifically <b>Sapient Storms</b>. <b>Atmospheric Elementals</b> are typically much smaller in scale, and have much lower levels of cognition.<br>See:<b>High Concept</b></td>
+    </tr>
+    <tr>
+      <td>High Concept Elementals</td>
+      <td>Rare class of Elementals formed around abstract, symbolic, or emotional constructs (e.g., pain, memory, decay, silence). Typically exhibit partial incorporeality and unpredictable behavior. Containment remains provisional in most cases.<br>See: <b>High Concept</b></td>
+    </tr>
+    <tr>
+      <td>Synthetic Elementals</td>
+      <td>Artificially constructed metaphysical constructs developed through ritual, sigil binding, or OP assisted formation. Their stability varies depending on binding matrix and source material.</td>
     </tr>
   </table>
 </details>
 
 ## Energy Being
-
+Incorporeal or semi-corporeal entities composed primarily of energetic phenomena: light, shadow, electricity, psychospiritual resonance, or elemental radiation. Most originate from high-energy Metaphysical Spaces (MS), including elemental planes, energy dominant realms, or the Spirit Realm. Though often labeled "spectral", many possess mass-variable or selectively tangible forms. Their interactions with the physical world typically involve resonance, manifestation, or possession.  
 <img src="/assets/images/energy_being.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -309,14 +341,19 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Tenebrites</td>
+      <td>Entities of living shadow. Often parasitic, residing in unlit spaces or attaching to human hosts.</td>
+    </tr>
+    <tr>
+      <td>Spectres</td>
+      <td>Residual psychic or soul imprints with limited cognition, usually tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations.<br>See: <b>Undead</b></td>
     </tr>
   </table>
 </details>
 
 ## Fey
-
+Metaphysical entities whose folklore predates recorded civilization. Fey vary wildly in shape, motive, and demeanor: ranging from child-snatching predators to capricious tricksters. Most originate from Metaphysical Spaces that are part of, or adjacent to, vast networks often called the Seelie Courts or similar mythic structures. Others, while exhibiting ey-like behavior or biology, are unrelated to these lineages. Fey often interact with reality through symbolic logic.  
+Caution is advised.  
 <img src="/assets/images/fey.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
