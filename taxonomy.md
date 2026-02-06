@@ -95,20 +95,398 @@ Entities intentionally or accidentally created through non-natural means, typica
   </table>
 </details>
 
-Celestial
-Cryptid
-Cryptoflora
-Dragon
-Elemental
-Energy Being
-Fey
-Hemovores
-High Concept
-Humanoid
-Infernal
-Lycanthrope
-Para-Human
-Simulacra
-Threshold Entities
-Undead
-Vitavore
+## Celestial
+Seemingly benevolent or neutral metaphysical beings often interpreted as angels, spirits, or divine intermediaries. These "spirits" are not connected to the Spirit Realm or death. Frequently reported as emanating from "higher planes" or paradisiacal Metaphysical Spaces (MS), though confirmed connections between these MS and known theological heavens are unverified or contradictory. Not always aligned with human values.  
+<img src="/assets/images/celestial.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Seraphim</td>
+      <td>Emit continuous photonic discharge. Induces burns, blindness, and "ecstatic paralysis" if unshielded. Avoid direct line of sight.</td>
+    </tr>
+    <tr>
+      <td>Cherubim</td>
+      <td>Non-humanoid, often multi-winged guardians of liminal gates. May act as sentries to MS junctions. Unintelligible vocalizations precede action</td>
+    </tr>
+    <tr>
+      <td>Thrones</td>
+      <td>Abstract celestial infrastructure. Appear as rotating wheels or dimensional anchors. Function unclear; disrupts gravity fields and time flow locally/</td>
+    </tr>
+    <tr>
+      <td>Virtues</td>
+      <td>Manifest as healing or stabilizing agents. Drawn to collapse zones and other extremely dangerous Anomalies. Prolonged exposure results ine uphoria, but creates dependents.</td>
+    </tr>
+    <tr>
+      <td>Powers</td>
+      <td>Warrior caste. Engage Infernals, rogue Thresholders, and parasitic High Concepts. High threat, but rarely hostile to humans unless obstructed.</td>
+    </tr>
+    <tr>
+      <td>Principalities</td>
+      <td>Regional metaphysical regulators. Associated with unstable nodes, ULEs and anomalous events along leylines their MS is connected. May deputize humans for local metaphysical balance.</td>
+    </tr>
+    <tr>
+      <td>Archangels</td>
+      <td>Often interpretive avatars of larger forces. Appear during apocalyptic tipping points or mass anomaly convergence. Rare and high unstable.</td>
+    </tr>
+    <tr>
+      <td>Angels</td>
+      <td>Broad classification for humanoid or near-humanoid celestials. Not universally benevolent. Vary in motive, allegiance, and communicability.</td>
+    </tr>
+    <tr>
+      <td>Malakhim</td>
+      <td>Messengers or envoys. May deliver instructions, prophecies, or anomalies. Tend toward cryptic or symbol-laden communication. Occasionally harmless.</td>
+    </tr>
+    <tr>
+      <td>Sarim</td>
+      <td>Emit continuous harmonic field; known to affect heart rate, sleep, and brainwave patterns. Appears during large group events or worship rituals.</td>
+    </tr>
+    <tr>
+      <td>Deva</td>
+      <td>Frequently tied to celestial motion, timekeeping, or elemental equilibrium. Function disruption risks large-scale spatial destabilization or repercussions.</td>
+    </tr>
+    <tr>
+      <td>Tennin</td>
+      <td>Manifest through music, vibration, or synchronized dream-state phenomena. May provide guidance or misdirection depending on observer resonance.</td>
+    </tr>
+    <tr>
+      <td>Kami-Form</td>
+      <td>Localized metaphysical intelligences anchored to natural or cultural constructs. Sometimes benevolent, sometimes volatile if ignored or disrespected.</td>
+    </tr>
+    <tr>
+      <td>Garuda</td>
+      <td>Avian-shaped aerial celestials of enormous scale. Associated with wind and sun cycles. Recorded in Southeast Asian and Vedic myths.</td>
+    </tr>
+    <tr>
+      <td>Neteru</td>
+      <td>Egyptian-origin entities embodying cosmic principles. Manifests in dream-states or solar alignments, or when ancient loci are disturbed. Frequently misidentified as Infernals due to hybrid-animal morphology.</td>
+    </tr>
+  </table>
+</details>
+
+## Cryptid
+Cryptids are biologically anomalous entities typically located in remote, liminal, or topologically unstable regions. Their origins vary; some are relics of extinct species preserved in cryptotemporal anomalies or time dilated Metaphysical Spaces (MS), others are emergent bioforms shaped by prolonged anomalous exposure, or entirely undocumented evolution outside known phylogenetic trees. The majority are regionally bound, with their activity often (but not always) correlating to Class-Gate Anomalies.
+<img src="/assets/images/cryptids.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Lake Entities (Nessids, Ogopogo Strains, etc.)</td>
+      <td>Massive acquatic organisms found in deep lacustrine environments, particularly thermocline-rich freshwater bodies. Demonstrate stealth behavior, deep sonar mimicry, and low-frequency vocal emissions. Some exhibit bioluminescent patterning or thermoregulatory fields. Physical interaction linked with memory lapse, emotional flattening, or localized time displacement. Suggested electromagnetic or temporal resonance with MS junctions.</td>
+    </tr>
+    <tr>
+      <td>Sasquatch-Class Hominids</td>
+      <td>Bipedal, large-frame primates of unknown origin. Generally non-aggressive unless provoked. Capable of tool use, rudimentary structures, and coordinated evasion of detection. Presence often coincides with electromagnetic distortion and camera failure. Some serve as biological wardens of certain MS-adjacent zones. Some arctic variants are also known, colloquially referred to as "Yeti".</td>
+    </tr>
+    <tr>
+      <td>Chupacabra-Type</td>
+      <td>Small to medium-sized quadrupeds or bipedal creatures with exsanguination behavior. Typically prey on livestock. May be misidentified anomalous canid entities or artificially spawned via bio-occult rituals.</td>
+    </tr>
+    <tr>
+      <td>Mokele-Mbembe / Relict Fauna</td>
+      <td>Dinosaurid or megafaunal species hypothesized to be biologically preserved within time-dilated MS that they somehow made their way into, or deep jungle cryptotemporal fold anomalies. Physical evidence is rare but consistent across independent expeditions. Many exhibit territorial aggression</td>
+    </tr>
+    <tr>
+      <td>Sky Beasts (Rods, Atmospheric Megafauna, Cloud Predators</td>
+      <td>Entities exhisting primarily at high altitudes or within dense cloud formations. Often invisible to unaided eye, visible only on slow-frame video or post-event spectral analysis. Flight patterns defy known aerodynamics. Some feed on EM radiation or static buildup from storms. Behavioral patterns unclear; may follow aircraft or congregate during high-altitude metaphysical activity.</td>
+    </tr>
+    <tr>
+      <td>Tunnel Men</td>
+      <td>Pale subterranean humanoids reported in mining collapses, forgotten bunkers, or abandoned urban infrastructure. Avoid light and contact; exhibit pack coordination and mimicry of human speech patterns. Some appear to interact with collapsed human societies or bio-echoes. Disputed classification.</td>
+    </tr>
+    <tr>
+      <td>Herald Cryptids (Mothman, Black Bird of Chernobyl, Owlman)</td>
+      <td>Entities reported shortly before major disasters, structural collapses, or mass-fatality events. Appearances often limited to liminal hours (dusk/dawn) and accompanied by heightened electromagnetic readings, disorientation, or overwhelming dread. Behavior is non-aggression but persistently observed near sites of imminent catastrophe. Purpose unclear; may function as metaphysical omens, passive anomaly detectors, or precursors to larger unrevealed systems of fate-based anomalies.</td>
+    </tr>
+  </table>
+</details>
+
+## Cryptoflora
+Plant-like organisms that exhibit anomalous or metaphysical properties inconsistent with known biology or ecological laws. Origins range from MS exposure events, mutation via anomaly contact, extradimensional seedfall, failed biogenesis rituals, or adaptive evolutoni in ontologically unstable regions. Unlike standard flora, Cryptoflora may display locomotion, cognition, interdimensional phasing, or non-terrestrial metabolic processes (e.g. feeding on emotion, memory, sound, or concepts).
+<img src="/assets/images/cryptoflora.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Carnophytes</td>
+      <td>Aggressive predatory flora utilize lures (visual, auditory, or pheromonal), often imitating human voices or forms. Tend to root near leyline fractures or spiritually active kill zones. Digestive processes may bypass matter entirely consuming "presence" or memory instead.</td>
+    </tr>
+    <tr>
+      <td>Anemoforms</td>
+      <td>Plant-like structures that move or grow in patterns resembling wind, sound, or emotion currents, rather than physical weather. Some variants are more mobile and float across terrain. Common in dream-like MS or emotional bleed-through anomalous zones.</td>
+    </tr>
+    <tr>
+      <td>Mycognostics</td>
+      <td>Fungal cryptoflora with psionic spores disphersal networks. Capable of transmitting thoughts, dreams, and memories between infected hosts. Some strain induce hive-mind behavior or ritualistic hallucinations. Known to coordinate with other anomaly types, including High Concepts.</td>
+    </tr>
+    <tr>
+      <td>Hollowseed</td>
+      <td>Plants that act as dimensional anchors or containment matrices for buried entities, OPs, or memories. Removing a Hollowseed without proper protocol may release stored content with catastrophic results. Often appear in geometrically unlikely arrangements.</td>
+    </tr>
+    <tr>
+      <td>Biolux Vines</td>
+      <td>Luminous flora that feed on radiant energy, often seen weaving through abandoned structures in MS, or anomalous zones. Defensive response includes laser-like photonic bursts. May form crude glyphs or path-markers in response to human proximity, possibly to lure or mislead.</td>
+    </tr>
+    <tr>
+      <td>Resonant Growths</td>
+      <td>Plants whose growth rates and patterns correlate to local frequencies: electromagnetic, emotional, linguistic or memetic. Can "tune" themselves to surveillance equipment, prayers, or recurring local thoughts. Overexposure can result in harmonic infections.</td>
+    </tr>
+    <tr>
+      <td>Petragardeners</td>
+      <td>Slow-moving, lichen-like colonies that transform surrounding terrain into anomalous mineral formations. Often mistaken for geological events until late-stage terraforming is underway. Some variants terraform human structures or bodies into habitat zones.</td>
+    </tr>
+    <tr>
+      <td>Mimic Bloom</td>
+      <td>Appear identical to native flora, but function as psychic siphons, drawing emotional content or personality fragments. Victims display personality degradation over time. Long-term exposure may result in complete conceptual ossification: "living statues" of identity.</td>
+    </tr>
+    <tr>
+      <td>Photosophonts</td>
+      <td>Rare sentient plants or colonies capable of limited telepathic communication. Often philosophically obsessed, fixated on cycles, death, or entropy. May offer riddles, guidance, or dangerous metaphysical insight. Typically immobile, but attract pilgrims, dreamers, or host-seekers.</td>
+    </tr>
+    <tr>
+      <td>Verdantheric Root Masses</td>
+      <td>Extremely old, slow thinking cryptoflora that integrate with local history or trauma. Tend to create stable microclimates with altered time flow. Cutting into root systems may result in historical bleed (e.g. voices of the dead, lost languages, repeating events).</td>
+    </tr>
+    <tr>
+      <td>Thorns of Retraction</td>
+      <td>Defensive cryptoflora that phase in and out of reality, appearing only when approached. Function as anti-pursuit barriers, often appearing in MS-bound corridors or during escape events. Contact causes memory fragmentation or identity recursion.</td>
+    </tr>
+    <tr>
+      <td>Soulseed Pods</td>
+      <td>Carry the psychic imprint of the area where they were formed. Some contain latent avatars or "echoes" of the dead. Sprouting a pod may result in manifestation of full memory-constructs, temporary temporal layering, or reanimatoin of local anomalies.</td>
+    </tr>
+  </table>
+</details>
+
+## Dragon
+
+<img src="/assets/images/dragon.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Elemental
+
+<img src="/assets/images/elemental.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Energy Being
+
+<img src="/assets/images/energy_being.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Fey
+
+<img src="/assets/images/fey.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Hemovores
+
+<img src="/assets/images/hemovore.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## High Concept
+
+<img src="/assets/images/high_concept.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Humanoid
+
+<img src="/assets/images/humanoid.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Infernal
+
+<img src="/assets/images/infernals.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Lycanthrope
+
+<img src="/assets/images/lycanthrope.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Para-Human
+
+<img src="/assets/images/parahuman.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Simulacra
+
+<img src="/assets/images/kitsune1.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Threshold Entities
+
+<img src="/assets/images/threshold.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Undead
+
+<img src="/assets/images/undead.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
+
+## Vitavore
+
+<img src="/assets/images/vitavores.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </table>
+</details>
