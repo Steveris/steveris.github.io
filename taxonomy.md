@@ -40,8 +40,52 @@ A provisional Entity classification applied to lifeforms that do not conform to 
   </table>
 </details>
 
-Amorphous
-Artificial
+## Amorphous
+Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutable in form. Amorphous entities do not rely on skeletal or rigid frameworks for movement or interaction. While many are composed of biolgocail or pseudo-biological material (e.g. slime, protoplasm, ecto-organic matter), some derive from nonstandard states of matter such as phase-fluidic plasma, quantum foam or metaphysical residue.  
+<img src="/assets/images/amorphous.jpg"> 
+
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+     <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Gelid Masses</td>
+      <td>Slimes or oozes. Often found in subterranean spaces. Capable of rapid cellular regeneration and nutrient absorption. These are typically ambush predators, either sticking to ceilings, invisibly filling the walls of a hallway, or camouflaging with a grimy floor until prey unwittingly falls into its ambush.</td>
+    </tr>
+    <tr>
+      <td>Neural Plasmoids</td>
+      <td>Amorphous entities comprised of pseudoneural tissue or psionic fluid. Exhibits thought-eating behaviour, often absorbs and replicates surface level memories or emotions from prey. Prolonged exposure can cause identity erosion, false memory implantation, or dream bleed. In rare cases, personnel have imprinted upon such entities, resulting in partial symbiosis or psychic dependency.</td>
+    </tr>
+    <tr>
+      <td>Cyst Entities</td>
+      <td>Organically self contained masses that grow from ruptured biological or conceptual barriers. Often begin as small lumps but rapidly accumulate mass. Unchecked cysts may "birth" secondary organisms, appendages, or entirely new Entities. Rare cases suggest they act as incubators or other interstitial lifeforms.</td>
+    </tr>
+    <tr>
+      <td>Mycomorphs</td>
+      <td>Fungal fluid hybrids with a decentralized nervous system. Spread via spores that form smal bloblets when moistened. Exhibit slow teritorial expansion and collective intelligence. Known to create bioluminescent signals in ritualistic patterns. Not always hostile; some subtypes maintain defensive symbiosis with cryptoflora or Thresholders.</td>
+    </tr>
+  </table>
+</details>
+
+## Artificial
+Entities intentionally or accidentally created through non-natural means, typically by sapient intervention (magical, technological, or alchemical). Artificial entities are defined by their constructed nature; whether their form, function, or consciousness originates from deliberate design or emergent self-assembly. Their intelligence ranges from rudimentary automation to sapient, emotionally complex minds.  
+<img src="/assets/images/artificial.jpg"> 
+
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Constructs</td>
+      <td>Mechanically or magically animated devices, often created to serve a specific function (guard, labor, surveillance). Behavior ranges from simple programming to limited adaptive logic. Vulnerabilities depend on power source and construction material.</td>
+    </tr>
+  </table>
+</details>
+
 Celestial
 Cryptid
 Cryptoflora
