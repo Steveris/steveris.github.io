@@ -7,6 +7,8 @@ nav_order: 20
 
 # Entity Taxonomy
 
+
+
 ## Aberrant
 A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behavioral, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models. Aberrant classification does not imply hostility, but indicates insufficient data to safely reclassify.  
 <img src="/assets/images/aberrant.jpg">  
@@ -82,7 +84,7 @@ Entities intentionally or accidentally created through non-natural means, typica
     </tr>
     <tr>
       <td>Homunculi</td>
-      <td>Alchemically synthesized humanoids, typically created to act as familiars, assistants, or proxy bodies. Intelligence varries; some exhibit childlike minds, others mimic full adult cognition. Prone to identity crises, emotional instability, or rebellion if exposed to trauma or extended separation from creator.</td>
+      <td>Alchemically synthesized humanoids, typically created to act as familiars, assistants, or proxy bodies. Intelligence varies; some exhibit childlike minds, others mimic full adult cognition. Prone to identity crises, emotional instability, or rebellion if exposed to trauma or extended separation from creator.</td>
     </tr>
     <tr>
       <td>Egoarts (OPs with consciousness)</td>
@@ -118,7 +120,7 @@ Seemingly benevolent or neutral metaphysical beings often interpreted as angels,
     </tr>
     <tr>
       <td>Virtues</td>
-      <td>Manifest as healing or stabilizing agents. Drawn to collapse zones and other extremely dangerous Anomalies. Prolonged exposure results ine uphoria, but creates dependents.</td>
+      <td>Manifest as healing or stabilizing agents. Drawn to collapse zones and other extremely dangerous Anomalies. Prolonged exposure results in euphoria, but creates dependents.</td>
     </tr>
     <tr>
       <td>Powers</td>
@@ -130,7 +132,7 @@ Seemingly benevolent or neutral metaphysical beings often interpreted as angels,
     </tr>
     <tr>
       <td>Archangels</td>
-      <td>Often interpretive avatars of larger forces. Appear during apocalyptic tipping points or mass anomaly convergence. Rare and high unstable.</td>
+      <td>Often interpretive avatars of larger forces. Appear during apocalyptic tipping points or mass anomaly convergence. Rare and highly unstable.</td>
     </tr>
     <tr>
       <td>Angels</td>
@@ -208,7 +210,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
 </details>
 
 ## Cryptoflora
-Plant-like organisms that exhibit anomalous or metaphysical properties inconsistent with known biology or ecological laws. Origins range from MS exposure events, mutation via anomaly contact, extradimensional seedfall, failed biogenesis rituals, or adaptive evolutoni in ontologically unstable regions. Unlike standard flora, Cryptoflora may display locomotion, cognition, interdimensional phasing, or non-terrestrial metabolic processes (e.g. feeding on emotion, memory, sound, or concepts).  
+Plant-like organisms that exhibit anomalous or metaphysical properties inconsistent with known biology or ecological laws. Origins range from MS exposure events, mutation via anomaly contact, extradimensional seedfall, failed biogenesis rituals, or adaptive evolution in ontologically unstable regions. Unlike standard flora, Cryptoflora may display locomotion, cognition, interdimensional phasing, or non-terrestrial metabolic processes (e.g. feeding on emotion, memory, sound, or concepts).  
 <img src="/assets/images/cryptoflora.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -226,7 +228,7 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
     </tr>
     <tr>
       <td>Mycognostics</td>
-      <td>Fungal cryptoflora with psionic spores disphersal networks. Capable of transmitting thoughts, dreams, and memories between infected hosts. Some strain induce hive-mind behavior or ritualistic hallucinations. Known to coordinate with other anomaly types, including High Concepts.</td>
+      <td>Fungal cryptoflora with psionic spores dispersal networks. Capable of transmitting thoughts, dreams, and memories between infected hosts. Some strain induce hive-mind behavior or ritualistic hallucinations. Known to coordinate with other anomaly types, including High Concepts.</td>
     </tr>
     <tr>
       <td>Hollowseed</td>
@@ -268,7 +270,7 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
 </details>
 
 ## Dragon
-Ancient, sapient NHEs associated with dominance, accumulation, strategic manipulation, and long-term influence. Dragons do not simply hoard material wealth: they accumulate *significance*. Despite their ancient legacy, most Dragons today are undocumented Illicit Non-Humans (INHs), their numbers diminished by the historical Saint George Campaign (11th-13th Century CE), a loosely coordinated ecclesiastical extermination effort lead by Saint George and the OP known as Ascalon. Surviving Dragons operate via embedded personas, shell conglomerates, arcane cults, or digital proxies, exercising influence across human systems while keeping their true nature hidden.  
+Ancient, sapient NHEs associated with dominance, accumulation, strategic manipulation, and long-term influence. Dragons do not simply hoard material wealth: they accumulate *significance*. Despite their ancient legacy, most Dragons today are undocumented Illicit Non-Humans (INHs), their numbers diminished by the historical Saint George Campaign (11th-13th Century CE), a loosely coordinated ecclesiastical extermination effort led by Saint George and the OP known as Ascalon. Surviving Dragons operate via embedded personas, shell conglomerates, arcane cults, or digital proxies, exercising influence across human systems while keeping their true nature hidden.  
 <img src="/assets/images/dragon.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -755,7 +757,7 @@ Entities capable of mimicking biological lifeforms, particularly humans, with va
     </tr>
     <tr>
       <td>Changelings</td>
-      <td>Entities that replace or displace human children, often in infancy. Can be bipedal, fey-derived, or mimetic in nature. Some remain dormant for years before activating behavioral shifts. Detection possible via mirrored reflection discrepencies and disrupted biometric scans.</td>
+      <td>Entities that replace or displace human children, often in infancy. Can be bipedal, fey-derived, or mimetic in nature. Some remain dormant for years before activating behavioral shifts. Detection possible via mirrored reflection discrepancies and disrupted biometric scans.</td>
     </tr>
     <tr>
       <td>Fetches</td>
