@@ -7,7 +7,9 @@ nav_order: 20
 
 # Entity Taxonomy
 
-
+<div class="notice">
+  <b>Note</b>: Taxonomic categories are non-exclusive. Entities may qualify under multiple classifications depending on manifestation, origin, or observed behavior.
+</div>
 
 ## Aberrant
 A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behavioral, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models. Aberrant classification does not imply hostility, but indicates insufficient data to safely reclassify.  
@@ -559,7 +561,7 @@ Metaphysical constructs or emergent entities that embody ideas, paradigms, or ab
 </details>
 
 ## Humanoid
-Entities of non-human origin that exhibit an outward similarity to the human form but do not easily fit other taxonomical classifications used by the Department of Special Affairs (DSA). This differs from Simulacra which (to varying degrees) simulate human appearances; and Para-Humans which are still of human origin. Humanoid classification does not account for origin, intent, or metaphysical structure, only their external morphology.
+Humanoid classification is morphological rather than ontological. Subtypes reflect dominant deviation patterns rather than lineage, origin, or metaphysical structure. This classification applies to non-human Entities exhibiting a broadly human body plan that cannot be reliably or exclusively classified under other Department taxonomies without loss of operational clarity.
 <img src="/assets/images/humanoid.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -569,19 +571,43 @@ Entities of non-human origin that exhibit an outward similarity to the human for
     </tr>
     <tr>
       <td>Goblinoids</td>
-      <td>A broad taxonomic cluster characterized by reduced stature, exaggerated facial features (e.g., overbites, flared ears, or nasal elongation or flattening), and behavioral clustering in high or clan-based units. Typically opportunistic, resource scavenging, and chaotic. Other capabilities vary wildly depending on species or subtype. Origin theories vary; suspected cross-MS proliferation.</td>
+      <td>Characterized by reduced stature, exaggerated craniofacial features, and social clustering in clan based units. Behavioral patterns are typically opportunistic and resource-oriented. capabilities vary widely by subtype. Origin theories vary; suspected cross-MS proliferation events are common.</td>
     </tr>
     <tr>
       <td>Giantkin</td>
-      <td>Oversized Humanoids exhibiting proportional limb structure and cranial scaling. Range from 2.5m to 15m in height. Often exhibit increased durability, low metabolic flexibility, and territorial behavior. Many varieties exist, each with unique displays of metaphysical phenomena.</td>
+      <td>Oversized Humanoids exhibiting proportional limb structure and cranial scaling. Range from 2.5m to 15m in height. Often exhibit increased durability, territorial behavior, and often exhibit high caloric demands and limited environmental adaptability. Many varieties exist, often exhibiting localized or lineage-specific metaphysical traits.</td>
     </tr>
     <tr>
       <td>Trolls</td>
-      <td>Heavily built Humanoids with dermal hardening, regenerative capacity, and low thermal resistance. Behavioral profiles range from solitary to tribal. Some exhibit cryptic speech patterns and low mimicry. Suspected high magic-index metabolic systems.</td>
+      <td>Heavily built Humanoids with dermal hardening, regenerative capacity, and low thermal resistance. Behavioral profiles range from solitary to tribal. Some exhibit cryptic speech patterns and low mimicry. Suspected high magic-index metabolic systems. Regenerative responses are often reactive rather than controlled and may be triggered by physical trauma, environmental stressors, or metaphysical exposure. Regeneration appears to be metabolically driven but frequently amplified by ambient metaphysical conditions.</td>
     </tr>
     <tr>
       <td>Animalistic</td>
-      <td>Frequently displaying animal traits combined with mostly if not entirely Human anatomy. May exhibit fur, ears, tail(s), or even a head that resemble animals or animal-like creatures. This includes Lamia, Mermaids, anthropomorphic animals, centaurs, non-Fey faun, etc.</td>
+      <td>Applied to Humanoids exhibiting prominent non-human animal traits integrated into an otherwise humanoid body plan. This subtype is descriptive rather than phylogenetic and does not imply shared origin. Traits may include fur, scales, tails, altered cranial morphology, or digitigrade limb structure. May apply across otherwise unrelated populatoins, including hidden NHE groups or stable hybrid lineages.</td>
+    </tr>
+    <tr>
+      <td>Pale Ones</td>
+      <td>Humanoids characterized by albinistic or near-albinistic skin tones, reduced pigmentation, and pronounced photophobia. Common secondary traits include elongated limbs, reduced body fat, and enlarged ocular structures. Behavioral patterns range from withdrawn to predatory. Frequently associated with subterranean, liminal, or light-deprived environments. Origins disputed; some theories suggest divergence from early humanoid stock, while others indicate MS-adaptive evolution or long-term isolation effects.</td>
+    </tr>
+    <tr>
+      <td>Grays</td>
+      <td>Small-statured humanoids with enlarged craniums, reduced musculature, minimal external sexual dimorphism, and smooth, desaturated dermal surfaces. Classified as Humanoid due to consistent bipedal morphology despite disputed origin. They often come from Metaphysical Spaces (MS) with more advanced technology than Earth. Some theories propose their MS may represent a temporally divergent Earth, implying a potential evolutionary relationship to humanity; these claims remain unsubstantiated. Their presence is commonly associated with a strong scent of ammonia. Verbal communication is minimal or absent.</td>
+    </tr>
+    <tr>
+      <td>Black-Eyed Children</td>
+      <td>Juvenile-appearing Humanoids exhibiting complete scleral and pupilary melanization. Common presentation includes apparent distress, social mimicry, and percistent access seeking behaviors. Physiological scans frequently return inconclusive or contradictory results. Origin unknown; disputed links to Threshold Entities, Possession events, or MS-adaptive constructs.</td>
+    </tr>
+    <tr>
+      <td>Morphologically Stable Hybrids</td>
+      <td>Humanoids exhibiting consistent, inheritable non-human anatomical traits integrated into a stable biological structure. Often culturally cohesive with stable social structures. Deviations are uniform within populations and do not display the instability or mutation rates seen in experimental or corrupted forms. Includes aquatic, serpentine, cervine, or other hybridized body plans. Origin varies widely and may include ancient treaties, MS-native evolution, or long-term coexistence with human populations.</td>
+    </tr>
+    <tr>
+      <td>Degenerate Humanoids</td>
+      <td>Humanoids exhibiting severe physiological or psychological degradation resulting from prolonged exposure to hostile environments, metaphysical corruption, or systemic collapse. Observed traits may include asymmetrical growth, organ failure or redundancy, cognitive regression, and compulsive behavior patterns. Often encountered in collapsed settlements, exclusion zones, or long-term containment failures.</td>
+    </tr>
+    <tr>
+      <td>Proto-Humanoids</td>
+      <td>Entities exhibiting incomplete or unstable humanoid morphology, often resembling early developmental or evolution stages. May lack fully differentiated limbs, cranial symmetry, or internal organ standardization. Cognitive capacity varies widely. Some specimens demonstrate tool use or proto-language, while others function at an instinctual level. Origins may include MS-native evolutionary paths, failed manifestation events, or interrupted manifestation or developmental processes.</td>
     </tr>
   </table>
 </details>
