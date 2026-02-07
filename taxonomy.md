@@ -497,10 +497,6 @@ Entities that feed on blood or other physical fluids as a metaphysical vector fo
       <td>Obayifo (West Africa)</td>
       <td>Ambiguous classification overlapping with witches. Hemovoric tendencies often latent until specific metaphysical triggers activate. Emit visible phosphorescence during feeding.</td>
     </tr>
-    <tr>
-      <td>Chupacabra (Latin America</td>
-      <td>Zoonotic variant. Quadrupedal or bipedal, with biological adaptations for blood extraction. Speculated to originate from a cross-contaminated MS.<br>See: <b>Cryptids</b></td>
-    </tr>
   </table>
 </details>
 
