@@ -8,7 +8,7 @@ nav_order: 20
 # Entity Taxonomy
 
 <div class="notice">
-  <b>Note</b>: Taxonomic categories are non-exclusive. Entities may qualify under multiple classifications depending on manifestation, origin, or observed behavior.
+  <b>Note</b>: Taxonomic categories are non-exclusive. Entities may qualify under multiple classifications depending on manifestation, origin, or observed behavior. Certain classifications describe what an entity is, while others describe how it appears or interacts with humans. These axes frequently overlap.
 </div>
 
 ## Aberrant
@@ -38,7 +38,7 @@ A provisional Entity classification applied to lifeforms that do not conform to 
     </tr>
     <tr>
       <td>Ontological Divergents</td>
-      <td>An entity that seems somewhat similar to one or more creatures of Earth, usually with some metaphysical enhancements or combinations of traits without being a disparate combinate like Chimerics. These are entities that make sense in the given Metaphysical Space they originate, but their taxonomy defies the other categories.</td>
+      <td>Entities whose internal logic is coherent within their native Metaphysical Space, but incompatible with terrestial classification schemeas.</td>
     </tr>
   </table>
 </details>
@@ -67,6 +67,10 @@ Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutab
     <tr>
       <td>Mycomorphs</td>
       <td>Fungal fluid hybrids with a decentralized nervous system. Spread via spores that form smal bloblets when moistened. Exhibit slow territorial expansion and collective intelligence. Known to create bioluminescent signals in ritualistic patterns. Not always hostile; some subtypes maintain defensive symbiosis with cryptoflora or Thresholders.</td>
+    </tr>
+    <tr>
+      <td>Phase-Slip Amorphs</td>
+      <td>Entities that exist in multiple states of matter or phase in/out of solidity unpredictably. Predictably difficult to contain.</td>
     </tr>
   </table>
 </details>
@@ -114,11 +118,11 @@ Seemingly benevolent or neutral metaphysical beings often interpreted as angels,
     </tr>
     <tr>
       <td>Cherubim</td>
-      <td>Non-humanoid, often multi-winged guardians of liminal gates. May act as sentries to MS junctions. Unintelligible vocalizations precede action</td>
+      <td>Non-humanoid, often multi-winged guardians of liminal gates. May act as sentries to MS junctions. Unintelligible vocalizations precede action.</td>
     </tr>
     <tr>
       <td>Thrones</td>
-      <td>Abstract celestial infrastructure. Appear as rotating wheels or dimensional anchors. Function unclear; disrupts gravity fields and time flow locally/</td>
+      <td>Abstract celestial infrastructure. Appear as rotating wheels or dimensional anchors. Function unclear; disrupts gravity fields and time flow locally.</td>
     </tr>
     <tr>
       <td>Virtues</td>
@@ -202,7 +206,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
     </tr>
     <tr>
       <td>Tunnel Men</td>
-      <td>Pale subterranean humanoids reported in mining collapses, forgotten bunkers, or abandoned urban infrastructure. Avoid light and contact; exhibit pack coordination and mimicry of human speech patterns. Some appear to interact with collapsed human societies or bio-echoes. Disputed classification.</td>
+      <td>Pale subterranean humanoids reported in mining collapses, forgotten bunkers, or abandoned urban infrastructure. Avoid light and contact; exhibit pack coordination and mimicry of human speech patterns. Some appear to interact with collapsed human societies or bio-echoes.<br>See: <b>Humanoids</b></td>
     </tr>
     <tr>
       <td>Herald Cryptids (Mothman, Black Bird of Chernobyl, Owlman)</td>
