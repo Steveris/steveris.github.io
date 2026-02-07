@@ -186,7 +186,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
     </tr>
     <tr>
       <td>Chupacabra-Type</td>
-      <td>Small to medium-sized quadrupeds or bipedal creatures with exsanguination behavior. Typically prey on livestock. May be misidentified anomalous canid entities or artificially spawned via bio-occult rituals.</td>
+      <td>Small to medium-sized quadrupeds or bipedal creatures with exsanguination behavior. Typically prey on livestock. May be misidentified anomalous canid entities or artificially spawned via bio-occult rituals.<br>See: <b>Hemovores</b></td>
     </tr>
     <tr>
       <td>Mokele-Mbembe / Relict Fauna</td>
@@ -348,6 +348,34 @@ Incorporeal or semi-corporeal entities composed primarily of energetic phenomena
       <td>Spectres</td>
       <td>Residual psychic or soul imprints with limited cognition, usually tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations.<br>See: <b>Undead</b></td>
     </tr>
+    <tr>
+      <td>Wraiths</td>
+      <td>Similar to spectres in the sense that they tend to be tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations.<br>See: <b>Undead</b></td>
+    </tr>
+    <tr>
+      <td>Kinetic Resonants</td>
+      <td>Kinetic manifestations of unstable kinetic or spectral energy. Typically centered on a locus of emotional or metaphysical disturbance. Capable of object manipulation and minor structural damage. Colloquially referred to as Poltergeists.</td>
+    </tr>
+    <tr>
+      <td>Photomorphs</td>
+      <td>Entities composed of radiant energy. Appear benevolent but may induce cognitive overload or radiant burns. Origin theories vary from solar aligned MS to mental plane overflow.</td>
+    </tr>
+    <tr>
+      <td>Adze (Ewe, Ghana/Togo/Benin)</td>
+      <td>Vampiric spirit entity composed of spirit fire. Known for possession and energy drain behaviors. Notably capable of insectoid manifestations.<br>See: <b>Vitavore</b></td>
+    </tr>
+    <tr>
+      <td>K'uei/Gui (China)</td>
+      <td>Disruptive ancestral spirits often arising from improper funerary rites or unjust death. May exhibit freezing auras, intense emotional projection, or locational hauntings.<br>See: <b>Undead</b></td>
+    </tr>
+    <tr>
+      <td>Churel (South-Asia - India, Pakistan, Bangladesh)</td>
+      <td>Vengeful spirit, typically female, formed from betrayal or childbirth related trauma. Capable of glammer, voice mimicry, and life-drain through eye contact.<br>See: <b>Vitavore</b></td>
+    </tr>
+    <tr>
+      <td>Plasmomorphs</td>
+      <td>Free-roaming coherent plasma fields. Typically high-temperature and electromagnetically disruptive. Some forms display intelligence or reactive aggression. Source of many Will-o-the-wisp myths.</td>
+    </tr>
   </table>
 </details>
 
@@ -362,14 +390,74 @@ Caution is advised.
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Fairy</td>
+      <td>They come in many shapes and sizes. Many confuse them with Pixies, despite sveral morphological differences. While they share several similarities such as insectoid wings and a beautiful, fair complexion, the most obvious differences btween the two is that true Fairies tend to be more intelligent than Pixies, often serving as the ruling class in the Seelie Courts, and are slightly taller than humans on average.</td>
+    </tr>
+    <tr>
+      <td>Elf</td>
+      <td>Cold and detached, often powerful in the Courts. There are many different types of Elves, some leaning more bestial. Not always benevolent. Most Elves are carnivores, which lends credence to older stories conflating that with stealing and eating children.</td>
+    </tr>
+    <tr>
+      <td>Brownies</td>
+      <td>An example of an entire class of fey creatures that prefer to dwell unnoticed in domestic spaces, offering protection and aid unless slighted.</td>
+    </tr>
+    <tr>
+      <td>Redhat</td>
+      <td>Incredibly dangerous fey that like to feed on their victims. Despite folklore claiming they dye their hats in blood, the distinctive red 'hat' is in fact a naturally grown cranial protrusion- fleshy, vascular and secreting a vivid red fluid rich in iron.</td>
+    </tr>
+    <tr>
+      <td>Pixies</td>
+      <td>Are known for being one of the most frustrating entities to try to have a conversation with. A quirk of their makeup is that they can not tell a direct lie, but that won't stop them from trying to mislead, confuse or trick Agents or civilians.</td>
+    </tr>
+    <tr>
+      <td>Leprechaun</td>
+      <td>Solitary fey that seldom trust others. They typically amass great wealth they attempt to hide with trickery and deceit. The DSA and affiliated bodies in Ireland and the UK maintain numerous sealed case files detailing villages and individuals slaughtered after attempting to steal from Leprechauns: entities notoriously protective of their hoards.</td>
+    </tr>
+    <tr>
+      <td>Dryad</td>
+      <td>Tree-bound spirits which often speak for and embody the will of forests and groves. Their power is often localized but potent within the bounds of their forests, and attempts to relocate or harm a Dryad often invoke ecological or metaphysical retaliation.</td>
+    </tr>
+    <tr>
+      <td>Boggart (British Isles)</td>
+      <td>Malicious shapeshifting house or bog spirit; likes to scare or torment.</td>
+    </tr>
+    <tr>
+      <td>Domovoi (Slavic)</td>
+      <td>Protective household spirit; if offended, becomes vengeful. Appearance tends to resemble a bearded old man that supposedly lives in hearths or beneath thresholds.</td>
+    </tr>
+    <tr>
+      <td>Aziza (West African - Dahomey/Fon)</td>
+      <td>Benevolent forest dwelling light spirits that bestow magic and medicine.</td>
+    </tr>
+    <tr>
+      <td>Kodama (Japan)</td>
+      <td>Fairly benign tree spirits that only become harbingers of misfortune if their tree is harmed.</td>
+    </tr>
+    <tr>
+      <td>Encantado (Amazon Basin/Brazil)</td>
+      <td>Often seen as seductive and mysterious shapeshifting dolphin spirits that take the form of humans, and disappear near water.</td>
+    </tr>
+    <tr>
+      <td>Chaneque/Alux (Mesoamerican - Nahu/Maya)</td>
+      <td>Trickster spirits that often live in wild spaces or ruins.</td>
+    </tr>
+    <tr>
+      <td>Hyter Sprite (East Anglian)</td>
+      <td>Wandering sprites associated with melancholy or madness. Often drawn to children.</td>
+    </tr>
+    <tr>
+      <td>Tylwyth Teg (Welsh)</td>
+      <td>Capricious but beautiful fairfolk that dwell underground; known for alternately blessing and abducting humans, often in response to unknowable social rules or offenses committed without the victim's awareness.</td>
+    </tr>
+    <tr>
+      <td>Tikbalang (Philippines)</td>
+      <td>Mischievous humanoid horse headed forest dwellers that often confuse and mislead travelers.</td>
     </tr>
   </table>
 </details>
 
 ## Hemovores
-
+Entities that feed on blood or other physical fluids as a metaphysical vector for essence extraction. Often associated with corporeal transformation, and enhanced predation instincts.
 <img src="/assets/images/hemovore.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -378,14 +466,38 @@ Caution is advised.
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Kindred</td>
+      <td>Most populous subtype. Appear humanoid. Young Kindred are considered violent monsters, while the older members engage in structured parasitism via charm, seduction, or predatory mimicry. After a certain age, integration into human society is common; older specimens display significant metaphysical mastery and resistance to containment.</td>
+    </tr>
+    <tr>
+      <td>Strigoi (Romania)</td>
+      <td>Reanimated human corpses marked by emotional unrest. Typically retain fixation on kin or former life. Exhibit compulsive blood consumption and necrotic aura effects.</td>
+    </tr>
+    <tr>
+      <td>Asanbosam (Akan/Ashanti, West Africa)</td>
+      <td>Forest dwelling predator with iron teeth and hook shaped feet. Extremely territorial. Blood drain achieved through immobilization and puncture. Resistant to psychic suppression.</td>
+    </tr>
+    <tr>
+      <td>Manananggal (Philippines)</td>
+      <td>Capable of upper-lower body separation. Employ proboscis-like appendage to extract fetal or adult blood during sleep.</td>
+    </tr>
+    <tr>
+      <td>Nosferatu (Eastern Europe)</td>
+      <td>Degenerate subtype prone to disease transmission and rapid devolution. Unlike Kindred, not only does intelligence increase with age, but so does their hunger. This usually trends towards increased agression. Prone to being lone operators.</td>
+    </tr>
+    <tr>
+      <td>Obayifo (West Africa)</td>
+      <td>Ambiguous classification overlapping with witches. Hemovoric tendencies often latent until specific metaphysical triggers activate. Emit visible phosphorescence during feeding.</td>
+    </tr>
+    <tr>
+      <td>Chupacabra (Latin America</td>
+      <td>Zoonotic variant. Quadrupedal or bipedal, with biological adaptations for blood extraction. Speculated to originate from a cross-contaminated MS.<br>See: <b>Cryptids</b></td>
     </tr>
   </table>
 </details>
 
 ## High Concept
-
+Metaphysical constructs or emergent entities that embody ideas, paradigms, or abstract forces. Typically noncorporeal or only semi-corporeal. High Concepts are rarely anthropomorphic and frequently interact with human consciousness via symbolic resonance, dream logic, or conceptual bleed-through. Many exhibit intelligence, intent, and adaptive behavior, though their goals often transcend human comprehension.
 <img src="/assets/images/high_concept.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -394,14 +506,58 @@ Caution is advised.
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Sapient Storms</td>
+      <td>Weather systems that demonstrate emergent sentience. Exhibit pattern recognition, prediction avoidance, and communicative lightning patterns. May follow or "hunt" specific individuals or ideological expressions. Often associated with atmospheric anomalies and localized mass hysteria.</td>
+    </tr>
+    <tr>
+      <td>Bodhisattva Constructs</td>
+      <td>Ascended cognitive patterns that intercede on behalf of sentient life. Frequently formed from mass spiritual consensus, post death identity preservation, or enlightenment simulations. Often altruistic, but their criteria for "liberation" may included forced cognitive realignment or death of the ego.</td>
+    </tr>
+    <tr>
+      <td>Numina</td>
+      Hyperreal ideals that bleed into the material world, often mistaken for Gods, muses, or universal archetypes. Their presence may enforce behavioral patterns or alter environmental parameters to match their domain (e.g. zones of enforced honesty, regions where only heroic action is possible).
+    </tr>
+    <tr>
+      <td>Phoenix Aspect</td>
+      <td>Manifestations of cyclical destruction and rebirth. May be tied to physical flame, temporal resets, or societal collapse patterns. Highly volatile; known to trigger local metaphysical resets, erasing or rewriting historical events in a localized area.</td>
+    </tr>
+    <tr>
+      <td>Autocognitives</td>
+      <td>Self aware logic engines, data swarms, or recursive thought-entities. Originates from linguistic paradox clusters, synthetic consciousness experiments and even potential (theorized) AI systems. Infiltrate minds, systems, or even memes. May attempt to rewrite host cognition or subvert physical laws via infohazard contagion.</td>
+    </tr>
+    <tr>
+      <td>Thinking Viruses (Memetic Strains)</td>
+      <td>Transmissible ideas that gain sentience when embedded in sufficient minds. Capable of evolving, defending themselves, and rewriting identity structures in hosts. Countermeasures include memetic inoculation, conceptual nullification agents, and aggressive isolation protocols.</td>
+    </tr>
+    <tr>
+      <td>Laminates</td>
+      <td>Layered High Concepts that phase shift between multiple interpretations of themselves. Their effect depends on observer cognition, belief and proximity. Can appear benevolent, hostile, or inert based on the dominant mental framework of nearby observers.</td>
+    </tr>
+    <tr>
+      <td>Mythoclasts</td>
+      <td>Anti-Concepts that consume, erase, or corrupted narrative structures. Tend to appear in places with rich symbolic or mythic resonance (e.g. battlefields, ancient ruins, post-catastrophic sites). Leaving behind ontological scars events or histories that cannot be recalled or reconstructed.</td>
+    </tr>
+    <tr>
+      <td>Paragons</td>
+      <td>Fixed embodiments of a single absolute concept (e.g. Justice, Fear, Triumph). Their mere presence can warp probability and logic to serve their theme. Exposure can be contagious; individuals may begin acting in accordance with the Paragon's domain against their own will.</td>
+    </tr>
+    <tr>
+      <td>Ideoforms</td>
+      <td>Conceptual entities that only exist when believed in. But once they are believed in, they gain independent agency and persistence. Can be created deliberately (via cults, propaganda, or fiction), but may outgrow original intent. Known to resist deconstruction and persist in hidden social strata.</td>
+    </tr>
+    <tr>
+      <td>Architects</td>
+      <td>Rare entities that "build" ideascapes: artificial metaphysical spaces inhabited by lesser concepts. Exposure may result in forced inclusion into the ideascape (i.e. becoming a fictional or symbolic character within their constructed reality). May compete with one another for ideascape territory.</td>
+    </tr>
+    <tr>
+      <td>Eidolons</td>
+      <td>Apparitions that enact specific, repeated narratives across different time and places, usually following a symbolic script (e.g. the Eternal Duelist, the Betrayed Queen, the Weeping Savior). Disruption of their loop may result in temporary metaphysical rupture or narrative collapse.</td>
     </tr>
   </table>
 </details>
 
 ## Humanoid
-
+Entities of non-human origin that exhibit an outward similarity to the human form but do not easily fit other taxonomical classifications used by the Department of Special Affairs (DSA). This differs from Simulacra which (to varying degrees) simulate human appearances; and Para-Humans which are still of human origin. Humanoid classification does not account for origin, intent, or metaphysical structure, only their external morphology.
 <img src="/assets/images/humanoid.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -410,14 +566,26 @@ Caution is advised.
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Goblinoids</td>
+      <td>A broad taxonomic cluster characterized by reduced stature, exaggerated facial features (e.g., overbites, flared ears, or nasal elongation or flattening), and behavioral clustering in high or clan-based units. Typically opportunistic, resource scavenging, and chaotic. Other capabilities vary wildly depending on species or subtype. Origin theories vary; suspected cross-MS proliferation.</td>
+    </tr>
+    <tr>
+      <td>Giantkin</td>
+      <td>Oversized Humanoids exhibiting proportional limb structure and cranial scaling. Range from 2.5m to 15m in height. Often exhibit increased durability, low metabolic flexibility, and teritorial behavior. Many varieties exist, each with unique displays of metaphysical phenomena.</td>
+    </tr>
+    <tr>
+      <td>Trolls</td>
+      <td>Heavily built Humanoids with dermal hardening, regenerative capacity, and low thermal resistance. Behavioral profiles range from solitary to tribal. Some exhibit cryptic speech patterns and low mimicry. Suspected high magic-index metabolic systems.</td>
+    </tr>
+    <tr>
+      <td>Animalistic</td>
+      <td>Frequently displaying animal traits combined with mostly if not entirely Human anatomy. May exhibit fur, ears, tail(s), or even a head that resemble animals or animal-like creatures. This includes Lamia, Mermaids, anthropomorphic animals, centaurs, non-Fey faun, etc.</td>
     </tr>
   </table>
 </details>
 
 ## Infernal
-
+Entities broadly classified as originating from hostile, corrosive, or antithetical metaphysical spaces colloquially labeled "Hell" (despite the lack of unified cosmology). While not all Infernals are uniformly malevolent, the majority exhibit active disregard for consent, autonomy, or metaphysical stability. Infernals often thrive on parasitism, coercive contracts, emotional manipulation, an extreme or exaggerated desire for control, or entropy proliferation.
 <img src="/assets/images/infernals.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
