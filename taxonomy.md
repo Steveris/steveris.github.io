@@ -8,7 +8,7 @@ nav_order: 20
 # Entity Taxonomy
 
 ## Aberrant
-A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behaviorial, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models.  
+A provisional Entity classification applied to lifeforms that do not conform to any established Departmental taxonomy. These Entities are defined by deviation-exhibiting physiological, behavioral, or metaphysical irregularities that fall outside known models. Some Aberrants may appear feral or bestial, while others engage in non-random but incomprehensible patterns, suggesting external logic structures or non-human cognition models. Aberrant classification does not imply hostility, but indicates insufficient data to safely reclassify.  
 <img src="/assets/images/aberrant.jpg">  
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -40,7 +40,7 @@ A provisional Entity classification applied to lifeforms that do not conform to 
 </details>
 
 ## Amorphous
-Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutable in form. Amorphous entities do not rely on skeletal or rigid frameworks for movement or interaction. While many are composed of biolgocail or pseudo-biological material (e.g. slime, protoplasm, ecto-organic matter), some derive from nonstandard states of matter such as phase-fluidic plasma, quantum foam or metaphysical residue.  
+Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutable in form. Amorphous entities do not rely on skeletal or rigid frameworks for movement or interaction. While many are composed of biological or pseudo-biological material (e.g. slime, protoplasm, ecto-organic matter), some derive from nonstandard states of matter such as phase-fluidic plasma, quantum foam or metaphysical residue.  
 <img src="/assets/images/amorphous.jpg">  
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -62,7 +62,7 @@ Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutab
     </tr>
     <tr>
       <td>Mycomorphs</td>
-      <td>Fungal fluid hybrids with a decentralized nervous system. Spread via spores that form smal bloblets when moistened. Exhibit slow teritorial expansion and collective intelligence. Known to create bioluminescent signals in ritualistic patterns. Not always hostile; some subtypes maintain defensive symbiosis with cryptoflora or Thresholders.</td>
+      <td>Fungal fluid hybrids with a decentralized nervous system. Spread via spores that form smal bloblets when moistened. Exhibit slow territorial expansion and collective intelligence. Known to create bioluminescent signals in ritualistic patterns. Not always hostile; some subtypes maintain defensive symbiosis with cryptoflora or Thresholders.</td>
     </tr>
   </table>
 </details>
@@ -178,7 +178,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
     </tr>
     <tr>
       <td>Lake Entities (Nessids, Ogopogo Strains, etc.)</td>
-      <td>Massive acquatic organisms found in deep lacustrine environments, particularly thermocline-rich freshwater bodies. Demonstrate stealth behavior, deep sonar mimicry, and low-frequency vocal emissions. Some exhibit bioluminescent patterning or thermoregulatory fields. Physical interaction linked with memory lapse, emotional flattening, or localized time displacement. Suggested electromagnetic or temporal resonance with MS junctions.</td>
+      <td>Massive aquatic organisms found in deep lacustrine environments, particularly thermocline-rich freshwater bodies. Demonstrate stealth behavior, deep sonar mimicry, and low-frequency vocal emissions. Some exhibit bioluminescent patterning or thermoregulatory fields. Physical interaction linked with memory lapse, emotional flattening, or localized time displacement. Suggested electromagnetic or temporal resonance with MS junctions.</td>
     </tr>
     <tr>
       <td>Sasquatch-Class Hominids</td>
@@ -193,8 +193,8 @@ Cryptids are biologically anomalous entities typically located in remote, limina
       <td>Dinosaurid or megafaunal species hypothesized to be biologically preserved within time-dilated MS that they somehow made their way into, or deep jungle cryptotemporal fold anomalies. Physical evidence is rare but consistent across independent expeditions. Many exhibit territorial aggression</td>
     </tr>
     <tr>
-      <td>Sky Beasts (Rods, Atmospheric Megafauna, Cloud Predators</td>
-      <td>Entities exhisting primarily at high altitudes or within dense cloud formations. Often invisible to unaided eye, visible only on slow-frame video or post-event spectral analysis. Flight patterns defy known aerodynamics. Some feed on EM radiation or static buildup from storms. Behavioral patterns unclear; may follow aircraft or congregate during high-altitude metaphysical activity.</td>
+      <td>Sky Beasts (Rods, Atmospheric Megafauna, Cloud Predators)</td>
+      <td>Entities existing primarily at high altitudes or within dense cloud formations. Often invisible to unaided eye, visible only on slow-frame video or post-event spectral analysis. Flight patterns defy known aerodynamics. Some feed on EM radiation or static buildup from storms. Behavioral patterns unclear; may follow aircraft or congregate during high-altitude metaphysical activity.</td>
     </tr>
     <tr>
       <td>Tunnel Men</td>
@@ -262,13 +262,13 @@ Plant-like organisms that exhibit anomalous or metaphysical properties inconsist
     </tr>
     <tr>
       <td>Soulseed Pods</td>
-      <td>Carry the psychic imprint of the area where they were formed. Some contain latent avatars or "echoes" of the dead. Sprouting a pod may result in manifestation of full memory-constructs, temporary temporal layering, or reanimatoin of local anomalies.</td>
+      <td>Carry the psychic imprint of the area where they were formed. Some contain latent avatars or "echoes" of the dead. Sprouting a pod may result in manifestation of full memory-constructs, temporary temporal layering, or reanimation of local anomalies.</td>
     </tr>
   </table>
 </details>
 
 ## Dragon
-Ancient, sapient NHEs associated with dominance, accumulation, strategic manipulation, and long-term influence. Dragons do not simply hoard material wealth: they accumulate *significance*. Despite their ancient legacy, most Dragons today are undocumented Illicit Non-Humans (INHs), their numbers diminished by the historical Saint George Campaign (11th-13th Century CE). Surviving Dragons operate via embedded personas, shell conglomerates, arcane cults, or digital proxies, exercising influence across human systems while keeping their true nature hidden.  
+Ancient, sapient NHEs associated with dominance, accumulation, strategic manipulation, and long-term influence. Dragons do not simply hoard material wealth: they accumulate *significance*. Despite their ancient legacy, most Dragons today are undocumented Illicit Non-Humans (INHs), their numbers diminished by the historical Saint George Campaign (11th-13th Century CE), a loosely coordinated ecclesiastical extermination effort lead by Saint George and the OP known as Ascalon. Surviving Dragons operate via embedded personas, shell conglomerates, arcane cults, or digital proxies, exercising influence across human systems while keeping their true nature hidden.  
 <img src="/assets/images/dragon.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -318,7 +318,7 @@ A classification of Entities typically originating from strongly elementally att
     </tr>
     <tr>
       <td>Atmospheric Elementals</td>
-      <td>Comprised of gaseous or meteorological components, such as wind, cloud, smoke, or stormfront patterns. Frequently misclassified under <b>High Concepts</b>, specifically <b>Sapient Storms</b>. <b>Atmospheric Elementals</b> are typically much smaller in scale, and have much lower levels of cognition.<br>See:<b>High Concept</b></td>
+      <td>Comprised of gaseous or meteorological components, such as wind, cloud, smoke, or stormfront patterns. Frequently misclassified under <b>High Concepts</b>, specifically <b>Sapient Storms</b>. <b>Atmospheric Elementals</b> are typically much smaller in scale, and have much lower levels of cognition.<br>See: <b>High Concept</b></td>
     </tr>
     <tr>
       <td>High Concept Elementals</td>
@@ -332,7 +332,7 @@ A classification of Entities typically originating from strongly elementally att
 </details>
 
 ## Energy Being
-Incorporeal or semi-corporeal entities composed primarily of energetic phenomena: light, shadow, electricity, psychospiritual resonance, or elemental radiation. Most originate from high-energy Metaphysical Spaces (MS), including elemental planes, energy dominant realms, or the Spirit Realm. Though often labeled "spectral", many possess mass-variable or selectively tangible forms. Their interactions with the physical world typically involve resonance, manifestation, or possession.  
+Energy Beings are defined by composition. They are incorporeal or semi-corporeal entities composed primarily of energetic phenomena: light, shadow, electricity, psychospiritual resonance, or elemental radiation. Most originate from high-energy Metaphysical Spaces (MS), including elemental planes, energy dominant realms, or the Spirit Realm. Though often labeled "spectral", many possess mass-variable or selectively tangible forms. Their interactions with the physical world typically involve resonance, manifestation, or possession.  
 <img src="/assets/images/energy_being.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -380,7 +380,7 @@ Incorporeal or semi-corporeal entities composed primarily of energetic phenomena
 </details>
 
 ## Fey
-Metaphysical entities whose folklore predates recorded civilization. Fey vary wildly in shape, motive, and demeanor: ranging from child-snatching predators to capricious tricksters. Most originate from Metaphysical Spaces that are part of, or adjacent to, vast networks often called the Seelie Courts or similar mythic structures. Others, while exhibiting ey-like behavior or biology, are unrelated to these lineages. Fey often interact with reality through symbolic logic.  
+Metaphysical entities whose folklore predates recorded civilization. Fey vary wildly in shape, motive, and demeanor: ranging from child-snatching predators to capricious tricksters. Most originate from Metaphysical Spaces that are part of, or adjacent to, vast networks often called the Seelie Courts or similar mythic structures. Others, while exhibiting ey-like behavior or biology, are unrelated to these lineages. Fey often interact with reality through symbolic logic. Fey morality operates on obligation, balance, and aesthetic logic rather than empathy or harm minimization.  
 Caution is advised.  
 <img src="/assets/images/fey.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
@@ -391,7 +391,7 @@ Caution is advised.
     </tr>
     <tr>
       <td>Fairy</td>
-      <td>They come in many shapes and sizes. Many confuse them with Pixies, despite sveral morphological differences. While they share several similarities such as insectoid wings and a beautiful, fair complexion, the most obvious differences btween the two is that true Fairies tend to be more intelligent than Pixies, often serving as the ruling class in the Seelie Courts, and are slightly taller than humans on average.</td>
+      <td>They come in many shapes and sizes. Many confuse them with Pixies, despite several morphological differences. While they share several similarities such as insectoid wings and a beautiful, fair complexion, the most obvious differences between the two is that true Fairies tend to be more intelligent than Pixies, often serving as the ruling class in the Seelie Courts, and are slightly taller than humans on average.</td>
     </tr>
     <tr>
       <td>Elf</td>
@@ -483,7 +483,7 @@ Entities that feed on blood or other physical fluids as a metaphysical vector fo
     </tr>
     <tr>
       <td>Nosferatu (Eastern Europe)</td>
-      <td>Degenerate subtype prone to disease transmission and rapid devolution. Unlike Kindred, not only does intelligence increase with age, but so does their hunger. This usually trends towards increased agression. Prone to being lone operators.</td>
+      <td>Degenerate subtype prone to disease transmission and rapid devolution. Unlike Kindred, not only does intelligence increase with age, but so does their hunger. This usually trends towards increased aggression. Prone to being lone operators.</td>
     </tr>
     <tr>
       <td>Obayifo (West Africa)</td>
@@ -571,7 +571,7 @@ Entities of non-human origin that exhibit an outward similarity to the human for
     </tr>
     <tr>
       <td>Giantkin</td>
-      <td>Oversized Humanoids exhibiting proportional limb structure and cranial scaling. Range from 2.5m to 15m in height. Often exhibit increased durability, low metabolic flexibility, and teritorial behavior. Many varieties exist, each with unique displays of metaphysical phenomena.</td>
+      <td>Oversized Humanoids exhibiting proportional limb structure and cranial scaling. Range from 2.5m to 15m in height. Often exhibit increased durability, low metabolic flexibility, and territorial behavior. Many varieties exist, each with unique displays of metaphysical phenomena.</td>
     </tr>
     <tr>
       <td>Trolls</td>
@@ -599,7 +599,7 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
     </tr>
     <tr>
       <td>Djinn</td>
-      <td>Pact based entities that manifest through verbal or symbolic contracts. Known to exploit linguistic, cultral, or legalistic loopholes. Power tier varies by lineage (e.g., Ifrit, Marid, Shaitan). Some demonstrate elemental affinities; especially fire, wind and sand. Containment possible via mirrored spatial constructs and oath binding circles. Never negotiate unprotected.</td>
+      <td>Pact based entities that manifest through verbal or symbolic contracts. Known to exploit linguistic, cultural, or legalistic loopholes. Power tier varies by lineage (e.g., Ifrit, Marid, Shaitan). Some demonstrate elemental affinities; especially fire, wind and sand. Containment possible via mirrored spatial constructs and oath binding circles. Never negotiate unprotected. DSA classification of Djinn as Infernal reflects behavioral risk patterns, not moral alignment.</td>
     </tr>
     <tr>
       <td>Cambions</td>
@@ -623,7 +623,7 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
     </tr>
     <tr>
       <td>Ashborn</td>
-      <td>Infernal echoes composed of sacrifiial remains, ritual ash, or burned offerings. Manifest as smoke-humanoids, scorched silhouettes, or living brands. Feed on grief, guilt, and unresolved loss. Known to haunt ritual burn sites or warzones. Containment difficult: prefer smoldering ruin as anchorage.</td>
+      <td>Infernal echoes composed of sacrificial remains, ritual ash, or burned offerings. Manifest as smoke-humanoids, scorched silhouettes, or living brands. Feed on grief, guilt, and unresolved loss. Known to haunt ritual burn sites or warzones. Containment difficult: prefer smoldering ruin as anchorage.</td>
     </tr>
     <tr>
       <td>Scourge Forms</td>
@@ -635,13 +635,13 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
     </tr>
     <tr>
       <td>Parasitarchs</td>
-      <td>High order infernals that embed in the social, political, or emotional structures of a populatoni. Do not manifest physically but influence policy, violence, or culture through subtle manipulation. May appear as guiding ideologies, revolutionary figures, or "necessary evils". Identification requires metaphysical forensics.</td>
+      <td>High order infernals that embed in the social, political, or emotional structures of a population. Do not manifest physically but influence policy, violence, or culture through subtle manipulation. May appear as guiding ideologies, revolutionary figures, or "necessary evils". Identification requires metaphysical forensics.</td>
     </tr>
   </table>
 </details>
 
 ## Lycanthrope
-Entities exhibiting cyclical or trigger based shapeshifting, typically between humanoid and bestial states. Triggers vary and may include lunar phases, eightened emotional states, metaphysical resonance, or pacts with extradimensional Entities. Some Lycanthropes are Para-Humans- originally human individuals transformed through viral contagion, ritual, or malediction. Others are wholly Non-Human Entities (NHEs) whose humanoid form is incidental, synthetic, or ancestrally inherited.
+Entities exhibiting cyclical or trigger based shapeshifting, typically between humanoid and bestial states. Triggers vary and may include lunar phases, heightened emotional states, metaphysical resonance, or pacts with extradimensional Entities. Some Lycanthropes are Para-Humans- originally human individuals transformed through viral contagion, ritual, or malediction. Others are wholly Non-Human Entities (NHEs) whose humanoid form is incidental, synthetic, or ancestrally inherited.
 <img src="/assets/images/lycanthrope.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -679,7 +679,7 @@ Entities exhibiting cyclical or trigger based shapeshifting, typically between h
     </tr>
     <tr>
       <td>Pricolici (Romanian)</td>
-      <td>NHEs that combine aspects of Lycanthrope and revenant. Often appear as undead werewolves that return post mortem to continue predaton. Pricolici are strongly associated with necrotic MS exposure and anomalous soul binding phenomena.<br>See: <b>Undead</b></td>
+      <td>NHEs that combine aspects of Lycanthrope and revenant. Often appear as undead werewolves that return post mortem to continue predation. Pricolici are strongly associated with necrotic MS exposure and anomalous soul binding phenomena.<br>See: <b>Undead</b></td>
     </tr>
     <tr>
       <td>Nahual (Aztec/Mayan)</td>
@@ -721,7 +721,7 @@ Humans who exhibit extranormal capabilities due to sustained exposure to Metaphy
 </details>
 
 ## Simulacra
-Entities capable of mimicking biological lifeforms, particularly humans, with varying degrees of fidelity. Simulacra are not merely disguises; they are beings whose form and function are defined by imitation, identity theft, or unstable transformation. Origins vary; some are metaphysical mimetics, others are cryptobiological anomalies, cursed individuals, or self-aware infiltrators. Many are predatory, feeding on human behavior, memories, or flesh. Others may be accidental byproducts of exposure to unstable Metaphysical Spaces (MS), Threshold phenomena, or memetic contamination.
+Entities capable of mimicking biological lifeforms, particularly humans, with varying degrees of fidelity. Simulacra are not merely disguises; they are beings whose form and function are defined by imitation, identity theft, or unstable transformation. Origins vary; some are metaphysical mimetics, others are cryptobiological anomalies, cursed individuals, or self-aware infiltrators. Many are predatory, feeding on human behavior, memories, or flesh. Others may be accidental byproducts of exposure to unstable Metaphysical Spaces (MS), Threshold phenomena, or memetic contamination. Simulacra may be artificial, emergent, or accidental; what defines them is that identity imitation is their primary metaphysical driver.
 <img src="/assets/images/kitsune1.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -809,7 +809,7 @@ Also known as Limen-Class Entities, Threshold Entities exist between stable laye
 </details>
 
 ## Undead
-Entities exhibiting autonomous motion, cognition, or intent despite clinical or metaphysical death. The term "Undead" encompasses a wide range of reanimated corpses, death aspected beings, and lifeforms bound to necrotic or post mortem energy systems. They may be biological, spiritual, or metaphysically animated, often through exposure to death or corrupted life elementally aligned MS, rituals, anomalous infection, parasitic entity infestation, or something else entirely.
+Undead are defined by their origin. They are Entities exhibiting autonomous motion, cognition, or intent despite clinical or metaphysical death. The term "Undead" encompasses a wide range of reanimated corpses, death aspected beings, and lifeforms bound to necrotic or post mortem energy systems. They may be biological, spiritual, or metaphysically animated, often through exposure to death or corrupted life elementally aligned MS, rituals, anomalous infection, parasitic entity infestation, or something else entirely.
 <img src="/assets/images/undead.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -827,7 +827,7 @@ Entities exhibiting autonomous motion, cognition, or intent despite clinical or 
     </tr>
     <tr>
       <td>Zombie</td>
-      <td>Typically mas-generated by necroviral anomalies, rituals, or ambient death saturation. Limited cognition. Behaviors include swarming, grasping and biting. Slow individually, but dangerous in numbers. Fire, dismemberment or diruption of necrotic energy field advised.<br>See: <b>Artificial<b></td>
+      <td>Typically mas-generated by necroviral anomalies, rituals, or ambient death saturation. Limited cognition. Behaviors include swarming, grasping and biting. Slow individually, but dangerous in numbers. Fire, dismemberment or disruption of necrotic energy field advised.<br>See: <b>Artificial<b></td>
     </tr>
     <tr>
         <td>Vampire</td>
@@ -835,7 +835,7 @@ Entities exhibiting autonomous motion, cognition, or intent despite clinical or 
     </tr>
     <tr>
       <td>Skeleton</td>
-      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to miltary-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies.<br>See: <b>Artificial</b></td>
+      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to military-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies.<br>See: <b>Artificial</b></td>
     </tr>
     <tr>
       <td>Ghosts</td>
