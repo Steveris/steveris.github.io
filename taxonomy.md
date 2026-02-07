@@ -594,14 +594,54 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Incubus/Succubus</td>
+      <td>Predatory symbiotic entities feeding on life force through intimacy, vulnerability, or emotional resonance. Capable of dream infiltration, minor shapeshifting, and compulsion. May initially appear benevolent. Typically operate alone or in loosely affiliated networks. Long term exposure results in spiritual fragmentation, emotional dependency, and energy depletion.</td>
+    </tr>
+    <tr>
+      <td>Djinn</td>
+      <td>Pact based entities that manifest through verbal or symbolic contracts. Known to exploit linguistic, cultral, or legalistic loopholes. Power tier varies by lineage (e.g., Ifrit, Marid, Shaitan). Some demonstrate elemental affinities; especially fire, wind and sand. Containment possible via mirrored spatial constructs and oath binding circles. Never negotiate unprotected.</td>
+    </tr>
+    <tr>
+      <td>Cambions</td>
+      <td>Human-Infernal hybrids often unaware of their lineage until stress, trauma, or exposure triggers latent traits. Abilities vary; infernal resilience, emotional manipulation, pyrokinetics, etc. Social stability risk increases with denial of heritage. Classified as Para-Human (Legacy) unless exhibiting manifest possession or irreversible transfiguration.<br>See: <b>Para-Human</b></td>
+    </tr>
+    <tr>
+      <td>Imp</td>
+      <td>Low order Infernals. Capricious, petty, and often malicious. Frequently encountered as summoned familiars, informants, or saboteurs. Can form minor hives if unsupervised. Danger lies in persistence, mimicry, and corrosive curiosity. Generally destroyable but capable of returning if contractually unclosed.</td>
+    </tr>
+    <tr>
+      <td>Ba'alic Forms</td>
+      <td>Hierarchical war-entities assuming titles (e.g., Duke of Agony, Marquis of Blades). May or may not correspond to organized infernal realms. Exhibit ritual dependent manifestation patterns. Draw strength from recognition, ritual reenactment, and hierarchical worship. Often summonable via blood seals or sovereign invocation.</td>
+    </tr>
+    <tr>
+      <td>Legion-Class</td>
+      <td>Distributed swarm intelligences. Capable of manifesting as coordinated multiple entities or inhabit mass hosts. Typically appear during possession outbreaks, crowd mental collapses, or ideological warfare. Individual nodes are weak; collective intelligence is highly adaptive. Exorcism must be simultaneous across all hosts to be effective.</td>
+    </tr>
+    <tr>
+      <td>Binder Devils</td>
+      <td>Functionally bureaucratic infernals. Specialize in writing, enforcing and weaponizing contracts, especially bureaucratic, legalistic, or institutional environments. Rarely encountered directly; often operate through proxies, fine prints, or ritual clauses. Known to create self replicating contract loops.</td>
+    </tr>
+    <tr>
+      <td>Ashborn</td>
+      <td>Infernal echoes composed of sacrifiial remains, ritual ash, or burned offerings. Manifest as smoke-humanoids, scorched silhouettes, or living brands. Feed on grief, guilt, and unresolved loss. Known to haunt ritual burn sites or warzones. Containment difficult: prefer smoldering ruin as anchorage.</td>
+    </tr>
+    <tr>
+      <td>Scourge Forms</td>
+      <td>Epidemic infernals tied to disease, plague, or social breakdown. May appear as humanoid carrion beasts, clouds of contagious flies, or mutagenic lesions. Commonly attracted to humanitarian disasters or prolonged warzones. Often mistaken for biological events until memetic or anomalous features emerge.</td>
+    </tr>
+    <tr>
+      <td>Egregoric Demons</td>
+      <td>Infernal manifestations created by collective hatred, fear, or vengeance. May not originate from external infernal planes, but from the metaphysical waste of human suffering. Highly localized, but can anchor to ideas, places, or social groups. Exorcism involves community reconciliation or ideological cleansing.</td>
+    </tr>
+    <tr>
+      <td>Parasitarchs</td>
+      <td>High order infernals that embed in the social, political, or emotional structures of a populatoni. Do not manifest physically but influence policy, violence, or culture through subtle manipulation. May appear as guiding ideologies, revolutionary figures, or "necessary evils". Identification requires metaphysical forensics.</td>
     </tr>
   </table>
 </details>
 
 ## Lycanthrope
-
+Entities exhibiting cyclical or trigger based shapeshifting, typically between humanoid and bestial states. Triggers vary and may include lunar phases, eightened emotional states, metaphysical resonance, or pacts with extradimensional Entities. Some Lycanthropes are Para-Humans- originally human individuals transformed through viral contagion, ritual, or malediction. Others are wholly Non-Human Entities (NHEs) whose humanoid form is incidental, synthetic, or ancestrally inherited.
 <img src="/assets/images/lycanthrope.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -610,14 +650,46 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Werewolf (Western Europe)</td>
+      <td>The most widespread form of Lycanthropy. Typically a Para-Human infected by a metaphysically originating virus; transmitted via saliva which rewrites the host's somatic template and alters cognition in accordance with lunar phases. Some lineages exhibit generational stability, allowing for voluntary transformation and retained mental faculties.</td>
+    </tr>
+    <tr>
+      <td>Hexenwolf (Germanic)</td>
+      <td>Transformation is achieved via enchanted artifacts (e.g., belts, pelts, cloaks), often tied to a metaphysical Patron Entity. Most are Bond-class Para-Humans who either inherited, stole, or were gifted such items. Artifact severance typically nullifies transformation capability.</td>
+    </tr>
+    <tr>
+      <td>Volk Wolf (Slavic)</td>
+      <td>Feral, quadrupedal entities with enhanced physicality. Typically NHEs, though some Para-Humans have been known to emulate their traits. Resistant to silver; responsive to folkloric belief, ritual, and symbolic gestures. Highly territorial and cognitively divergent.</td>
+    </tr>
+    <tr>
+      <td>Therianthropes</td>
+      <td>Not bound to a singular form, Therianthropes are capable of transforming into almost any kind of animal they wish.</td>
+    </tr>
+    <tr>
+      <td>Berserker (Norse)</td>
+      <td>Combat focused Para-Humans or NHEs who channel archetypal animal spirits, most common bears (berserkr) or wolves (ulfheðnar). Frequently associated with ritualized ingestion of psychoactive compounds or metaphysical possession.</td>
+    </tr>
+    <tr>
+      <td>Werebeast</td>
+      <td>Variant shapeshifters resembling non-wolf Werewolves and are typically not governed by lunar cycles. Often regionally adapted and may manifest from independent viral strains, ancestral curses, or isolated metaphysical anomalies. Behavioral profiles and trigger mechanisms vary significantly.</td>
+    </tr>
+    <tr>
+      <td>Benandanti (Italian Friuli)</td>
+      <td>Para-Human dream walkers who adopt werewolf forms during oneiric battles against malevolent metaphysical agents (commonly termed "witches"). Unlike most Lycanthropes, Benandanti retain full cognitive function and are considered protective entities within their cultural context.</td>
+    </tr>
+    <tr>
+      <td>Pricolici (Romanian)</td>
+      <td>NHEs that combine aspects of Lycanthrope and revenant. Often appear as undead werewolves that return post mortem to continue predaton. Pricolici are strongly associated with necrotic MS exposure and anomalous soul binding phenomena.<br>See: <b>Undead</b></td>
+    </tr>
+    <tr>
+      <td>Nahual (Aztec/Mayan)</td>
+      <td>Initiated Para-Humans capable of shapeshifting into culturally significant animals: most often jaguars, eagles, or coyotes. Nahual transformation is typically achieved through ritual initiation and spiritual alignment with a Totemic Entity or guardian force. Control is often learned, not innate.</td>
     </tr>
   </table>
 </details>
 
 ## Para-Human
-
+Humans who exhibit extranormal capabilities due to sustained exposure to Metaphysical Spaces (MS), anomalies, magical rites, or metaphysical entanglement. Para-Humans form a broad, mutable category of partially posthuman Entities who retain a fundamentally human origin though their physiology and psychology may degrade, evolve, or hybridize depending on the nature of their transformation.
 <img src="/assets/images/parahuman.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -626,14 +698,30 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Touched</td>
+      <td>Individuals transformed by direct or residual MS exposure, anomalous proximity, spontaneous metaphysical events, or contact with ambient magic fields. Alterations may be physical (bioluminescence, non-Newtonian musculature, sensory distortion), mental (multi-threaded cognition, latent precognition, telekinetic manipulation), or metaphysical (e.g., shadow bleed, elemental channeling, localized reality distortion).</td>
+    </tr>
+    <tr>
+      <td>Bound</td>
+      <td>Individuals tethered to an external metaphysical force (Entity or OP) via symbiosis, possession, or pact. The nature of the bond can be voluntary, coerced, parasitic, or transactional. Powers are typically borrowed, channeled, or forcibly mediated through the bound entity or object. Bound Para-Humans often face increased risk of metaphysical instability or loss of agency over time.</td>
+    </tr>
+    <tr>
+      <td>Initiated</td>
+      <td>Para-Humans who have developed powers through deliberate training in magical, spiritual, or metaphysical traditions. Often operate through rituations, symbols, mnemonic structures, or metaphysical "languages". Represent the most stable subtype, though also the most ideologically diverse; belief systems typically define botht he scope and ethics of their abilities. Includes practitioners of witchcraft, sorcery, spiritual disciplines, religions metaphysics, and esoteric cults.</td>
+    </tr>
+    <tr>
+      <td>Ascendants</td>
+      <td>Para-Humans who have undergone partial ontological elevation; becoming transitional beings between human and Entity states. Often tied to mythic patterns, narrative convergence, or sustained High Concept exposure.</td>
+    </tr>
+    <tr>
+      <td>Legacies</td>
+      <td>Para-Humans born with latent or active metaphysical traits due to parentage, genetic inheritance from Entity contact, or ancestral exposure to anomalies. Abilities often manifest during adolescence or periods of intense stress.</td>
     </tr>
   </table>
 </details>
 
 ## Simulacra
-
+Entities capable of mimicking biological lifeforms, particularly humans, with varying degrees of fidelity. Simulacra are not merely disguises; they are beings whose form and function are defined by imitation, identity theft, or unstable transformation. Origins vary; some are metaphysical mimetics, others are cryptobiological anomalies, cursed individuals, or self-aware infiltrators. Many are predatory, feeding on human behavior, memories, or flesh. Others may be accidental byproducts of exposure to unstable Metaphysical Spaces (MS), Threshold phenomena, or memetic contamination.
 <img src="/assets/images/kitsune1.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -642,14 +730,46 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Doppelgangers</td>
+      <td>Metaphysical identity mimics. Full copy appearance, voice, and superficial memory, but often struggle with nuanced emotional expression or spontaneous interaction. Frequently linked to mirror anomalies, unsealed Thresholds, or guilt-heavy trauma sites. Hostile variants consume or replace their targets; non-hostile forms may be self aware but socially destabilizing.</td>
+    </tr>
+    <tr>
+      <td>Wendigo</td>
+      <td>Cannibalistic shapeshifters formed through ritual or metaphysical contagion. Emerge in isolation scenarios or survivalist breakdowns. Physiology fluctuates between emaciated humanoid and monstrous predator. High durability, extreme olfactory targeting, and regenerative capacity. Speech is possible, often mimicking voices of previous victims.</td>
+    </tr>
+    <tr>
+      <td>Skinwalkers</td>
+      <td>Traditionally associated with indigenous folklore, but confirmed cases suggest a broader class of entity capable of donning skins (literal or metaphorical) to assume new forms. Transformation is often incomplete or "sloppy", retaining elements of previous hosts. Often bound to specific ritual codes or prohibitions. Avoidance of eye contact and recognition rituals recommended.</td>
+    </tr>
+    <tr>
+      <td>Lycanthrope</td>
+      <td>While some are Para-Human (Touched, Ascendant or Legacy), most field-encountered lycanthropes classify as Simulacra Entities that simulate human-animal hybrid states for predatory, territorial or ritual purposes.<br>See: <b>Lycanthropes</b>, <b>Para-Humans</b></td>
+    </tr>
+    <tr>
+      <td>Mimics</td>
+      <td>Non-humanoid Simulacra that imitate objects or environments. Often mistaken for Amorphous Entities. Known to simulate doors, vending machines, animals, or even entire rooms. Ambush predators. Destruction often reveals non-terrestrial core material (e.g. bone lattice, magnetic jelly).</td>
+    </tr>
+    <tr>
+      <td>Kitsune</td>
+      <td>Fox-associated Entities originating from East Asian metaphysical folklore. Possess high intelligence, glammer-based illusion capabilities, and extreme longevity. Known to embed themselves into human societies as seducers, tricksters, or spiritual guides. Risk level varies: benevolent kitsune may offer insight or protection, while malicious types are manipulative, identity eroding parasites.</td>
+    </tr>
+    <tr>
+      <td>Changelings</td>
+      <td>Entities that replace or displace human children, often in infancy. Can be bipedal, fey-derived, or mimetic in nature. Some remain dormant for years before activating behavioral shifts. Detection possible via mirrored reflection discrepencies and disrupted biometric scans.</td>
+    </tr>
+    <tr>
+      <td>Fetches</td>
+      <td>Simulacra that appear shortly before the death of their target; sometimes seen only by the victim. Unclear whether they are omens, assassins, or metaphysical attractors. Documented appearances show a distorted or "uncanny" mimicry of the target.</td>
+    </tr>
+    <tr>
+      <td>Tulpa-Rebounders</td>
+      <td>Thoughtforms recreated through repeated visualization, obsession, or ritual focus that achieves independence and begin imitating their creator or focus subject. Particularly dangerous when host is emotionally unstable or unaware of the tulpa's semi-autonomy. Often volatile, obsessive, or fixated on replacing the original.</td>
     </tr>
   </table>
 </details>
 
 ## Threshold Entities
-
+Also known as Limen-Class Entities, Threshold Entities exist between stable layers of reality, Metaphysical Spaces (MS), or dimensional strata. They are not native to any singular plane, instead operating within or guarding liminal boundaries between states; sleep and awake, life and death, real and unreal. Most encounters occur at or near gate-class events, metaphysical fissures or transitional zones such as doorways, mirrors, graveyards, and anomalous architecture.
 <img src="/assets/images/threshold.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -658,14 +778,38 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Doorkeepers</td>
+      <td>Entities that guard the literal or metaphorical gates of reality. Often humanoid or architecturally inspired in form. Passage may require ritual, symbolic keys, or narrative preconditions. Hostility increases in proportion to the degree of threshold violation.</td>
+    </tr>
+    <tr>
+      <td>Palindrome Hosts</td>
+      <td>Entities trapped in temporal symmetry, acting out events both forward and backward simultaneously. Contact may ensnare observers in time loops or echo state reflections. Commonly appear at collapsed Uncontrolled Leyline Events (ULE) or within warped temporal strata.</td>
+    </tr>
+    <tr>
+      <td>Mirrorlings</td>
+      <td>Entities inhabiting reflective surfaces. Mimic human appearance but exhibit delayed, distorted or divergent behaviors. Some use mirrors as gateways; others attempt to "trade places" with observers. Containment typically involves reflective nullification or recursive environment collapse.</td>
+    </tr>
+    <tr>
+      <td>The Between-Flesh</td>
+      <td>Shifting, unformed masses incapable of stabilizing into coherent biology. Frequently engage in partial mimicry of nearby lifeforms. Exude strong psychic pressure; symptoms include deja vu, nausea, memory fragmentation, and dissociative states. Believed to result from corrupted or incomplete traversal of Metaphysical Spaces (MS).</td>
+    </tr>
+    <tr>
+      <td>Borderline Sentinels</td>
+      <td>Neutral enforcers of metaphysical boundaries. May appear to escort trespassers or enforce "passage tolls" through symbolic exchange (e.g. memory, emotion, blood). Occasionally cooperative with DSA.</td>
+    </tr>
+    <tr>
+      <td>Echo-Men</td>
+      <td>Flickering entities resembling the observer, displaced by several seconds in time. Exhibit limited precognition or reactive mimicry across multiple potential timelines. Prolonged observation may induce timeline destabilization or perceptual bleed.</td>
+    </tr>
+    <tr>
+      <td>Threshold Harbingers</td>
+      <td>Advanced or higher-order Threshold Entities that precede major metaphysical realignments. Typically non-hostile, but their presence correlates with veil-thinning, incursion events, or systemic crossfade phenomena. May share origins or behaviors with Herald Cryptids.<br>See: <b>Cryptids</b></td>
     </tr>
   </table>
 </details>
 
 ## Undead
-
+Entities exhibiting autonomous motion, cognition, or intent despite clinical or metaphysical death. The term "Undead" encompasses a wide range of reanimated corpses, death aspected beings, and lifeforms bound to necrotic or post mortem energy systems. They may be biological, spiritual, or metaphysically animated, often through exposure to death or corrupted life elementally aligned MS, rituals, anomalous infection, parasitic entity infestation, or something else entirely.
 <img src="/assets/images/undead.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -674,14 +818,34 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Lich</td>
+      <td>Undead Initiated or Metaphysical savants who achieved undeath through ritual or anomalous pact. Often retain immense knowledge and may operate long-term agendas. Tend to guard their phylacteries (soul anchors). Avoid provoking unless necessary; high-threat. High levels of cognition.</td>
+    </tr>
+    <tr>
+      <td>Ghoul</td>
+      <td>Corpse-feeding humanoids. May be transformed humans or true necrophagic species. Some exhibit pack behavior and limited speech. Typically burrowers. Highly infectious in bite and blood. Known to burrow into morgues, crypts, and cemeteries to establish lairs.</td>
+    </tr>
+    <tr>
+      <td>Zombie</td>
+      <td>Typically mas-generated by necroviral anomalies, rituals, or ambient death saturation. Limited cognition. Behaviors include swarming, grasping and biting. Slow individually, but dangerous in numbers. Fire, dismemberment or diruption of necrotic energy field advised.<br>See: <b>Artificial<b></td>
+    </tr>
+    <tr>
+        <td>Vampire</td>
+        <td>Not all Vampires are Undead, but many are.<br>See: <b>Hemovores</b> or <b>Vitavores</b></td>
+    </tr>
+    <tr>
+      <td>Skeleton</td>
+      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to miltary-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies.<br>See: <b>Artificial</b></td>
+    </tr>
+    <tr>
+      <td>Ghosts</td>
+      <td>See: <b>Energy Beings</b></td>
     </tr>
   </table>
 </details>
 
 ## Vitavore
-
+Entities that consume non-physical essence such as Qi, prāṇa, emotions, or dream energy, as sustenance. Some possess corporeal form; others exist partially or entirely in an incorporeal state. Victims often report chronic fatigue, emotional instability, or identity erosion post exposure.
 <img src="/assets/images/vitavores.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -690,8 +854,28 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
       <th>Details</th>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>Jiangshi (China)</td>
+      <td>Rigid, hopping cadavers drawn to vital Qi. Sensory focus on breath or warmth. Feeding typically lethal; commonly attracted to areas within strong geomantic imbalance.</td>
+    </tr>
+    <tr>
+      <td>Alp (Germanic)</td>
+      <td>Dream feeding parasite manifesting during sleep paralysis. Consumes rest, joy, and psychic integrity. Associated with nightmares, sexual predatoin, and infant feeding behaviors.</td>
+    </tr>
+    <tr>
+      <td>Bhūta (Hindu Folklore)</td>
+      <td>Spirit entities consuming prāṇa. Often remain near site of death or trauma. May exhibit moral neutrality unless threatened or disrespected.</td>
+    </tr>
+    <tr>
+      <td>Vetala (Indian subcontinent)</td>
+      <td>Spirits that occupy corpses to remain within the physical world. Feed on soul-essence. Disrupt local death energy cycles. Frequently hostile to containment.</td>
+    </tr>
+    <tr>
+      <td>Draugr (Norse)</td>
+      <td>Animated corpses of warriors or chieftains. Leech vitality and fortitude. Tend to hoard metaphysical territory and manifest in cold, resonant zones.</td>
+    </tr>
+    <tr>
+      <td>Baku (East Asia)</td>
+      <td>MS-native dream eaters. Feed on dreams, nightmares, or emotional repression. Symbiotic variants may protect hosts from psychic trauma. Predatory variants induce delusions or sleep deprivation to harvest more energy.</td>
     </tr>
   </table>
 </details>
