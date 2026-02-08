@@ -863,7 +863,7 @@ Undead are defined by their origin. They are Entities exhibiting autonomous moti
     </tr>
     <tr>
       <td>Ghosts</td>
-      <td>See: <b>Energy Beings</b></td>
+      <td>See: Energy Beings</td>
     </tr>
   </table>
 </details>
