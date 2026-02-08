@@ -29,10 +29,6 @@ A provisional Entity classification applied to lifeforms that do not conform to 
       <td>Entities composed of disparate biological, symbiotic, or metaphysical subsystems. Often exhibit contradictory anatomical traits. Functional logic may be adaptive, mimetic, or entirely chaotic. Threat level scales with subsystem coherence.</td>
     </tr>
     <tr>
-      <td>Misprints</td>
-      <td>Entities that appear as corrupted versions of known biological or cultural templates (e.g. deer with recursive antlers, humanoids with mirrored or textural anomalies). Often feature repeated, stuttered, or "glitched" behavior. May suggest failed attempts at mimetic integration or baseline reality. Low-level memetic hazard common.</td>
-    </tr>
-    <tr>
       <td>Negatives</td>
       <td>Aberrants defined not by what they are, but what they are not. These include absence-shaped entities, anti-patterns, or zones of metaphysical negation. May erase memory, matter, or energy in localized areas. Some exhibit topological impossibilities or dimensional bleed. Field containment discouraged.</td>
     </tr>
@@ -61,16 +57,8 @@ Entities lacking fixed anatomical structure. Often fluidic, gelatinous, or mutab
       <td>Amorphous entities comprised of pseudoneural tissue or psionic fluid. Exhibits thought-eating behaviour, often absorbs and replicates surface level memories or emotions from prey. Prolonged exposure can cause identity erosion, false memory implantation, or dream bleed. In rare cases, personnel have imprinted upon such entities, resulting in partial symbiosis or psychic dependency.</td>
     </tr>
     <tr>
-      <td>Cyst Entities</td>
-      <td>Organically self contained masses that grow from ruptured biological or conceptual barriers. Often begin as small lumps but rapidly accumulate mass. Unchecked cysts may "birth" secondary organisms, appendages, or entirely new Entities. Rare cases suggest they act as incubators or other interstitial lifeforms.</td>
-    </tr>
-    <tr>
       <td>Mycomorphs</td>
       <td>Fungal fluid hybrids with a decentralized nervous system. Spread via spores that form smal bloblets when moistened. Exhibit slow territorial expansion and collective intelligence. Known to create bioluminescent signals in ritualistic patterns. Not always hostile; some subtypes maintain defensive symbiosis with cryptoflora or Thresholders.</td>
-    </tr>
-    <tr>
-      <td>Phase-Slip Amorphs</td>
-      <td>Entities that exist in multiple states of matter or phase in/out of solidity unpredictably. Predictably difficult to contain.</td>
     </tr>
   </table>
 </details>
@@ -104,7 +92,8 @@ Entities intentionally or accidentally created through non-natural means, typica
 </details>
 
 ## Celestial
-Seemingly benevolent or neutral metaphysical beings often interpreted as angels, spirits, or divine intermediaries. These "spirits" are not connected to the Spirit Realm or death. Frequently reported as emanating from "higher planes" or paradisiacal Metaphysical Spaces (MS), though confirmed connections between these MS and known theological heavens are unverified or contradictory. Not always aligned with human values.  
+Celestials are metaphysical entities originating from high-order or structurally stable Metaphysical Spaces (MS), historically interpreted by human cultures as angels, divine spirits, or intermediaries. Despite persistent theological conflation, Celestials are not associated with death processing, afterlife systems, or the Spirit Realm.  
+Observed Celestial behavior suggests functional alignment with systemic regulation, boundary enforcement, or metaphysical load-balancing within their native MS. Celestials do not operate according to human ethical frameworks; any perceived benevolence is incidental to function rather than intent. Alignment with human values is situational, temporary, and unreliable.
 <img src="/assets/images/celestial.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
@@ -113,64 +102,24 @@ Seemingly benevolent or neutral metaphysical beings often interpreted as angels,
       <th>Details</th>
     </tr>
     <tr>
-      <td>Seraphim</td>
-      <td>Emit continuous photonic discharge. Induces burns, blindness, and "ecstatic paralysis" if unshielded. Avoid direct line of sight.</td>
+      <td>Emitters</td>
+      <td>Celestials whose primary interaction with reality involves continuous or poorly regulated energetic discharge. Effects may include photonic emission, harmonic radiation, gravitational distortion, or metaphysical overload.<br>Emitters are hazardous by proximity alone; intent is often irrelevant or non-existant. Standard engagement protocols prioritize shielding, line-of-sight disruption, and rapid withdrawal. <br>(Common designations: Seraphim-class manifestations, harmonic Sarim events)</td>
     </tr>
     <tr>
-      <td>Cherubim</td>
-      <td>Non-humanoid, often multi-winged guardians of liminal gates. May act as sentries to MS junctions. Unintelligible vocalizations precede action.</td>
+      <td>Wardens</td>
+      <td>Celestials that function as sentries, regulators, or territorial enforcement mechanisms within or adjacent to a Metaphysical Space. Wardens typically respond to boundary violations, instability, or unauthorized transit rather than individual actions.<br>Wardens may permit passage, impose conditions, or engage intruders without warning. Communication, when possible, is procedural rather than negotiable.<br>(Common designations: Cherubim sentries, Principality-linked regulators)</td>
     </tr>
     <tr>
-      <td>Thrones</td>
-      <td>Abstract celestial infrastructure. Appear as rotating wheels or dimensional anchors. Function unclear; disrupts gravity fields and time flow locally.</td>
+      <td>Infrastructure-Class Celestials</td>
+      <td>Celestials that function as metaphysical systems, anchors, or load-bearing structures rather than autonomous actors. Manifestations are often abstract, geometric, or non-humanoid. Disruption of Infrastructure-Class Celestials may result in localized reality failure, temporal instability, or cascading anomalies. Direct interaction is strongly discouraged without Executive authorization. Unauthorized interference has resulted in multi-site cascade failures and permanent MS instability.<br>(Common designations: Thrones, rotational or axis-bound entities)</td>
     </tr>
     <tr>
-      <td>Virtues</td>
-      <td>Manifest as healing or stabilizing agents. Drawn to collapse zones and other extremely dangerous Anomalies. Prolonged exposure results in euphoria, but creates dependents.</td>
+      <td>Intercessors</td>
+      <td>Celestials capable of symbolic communication, interpretation, or mediated interaction with humans or other Elements. Intercessors may appear humanoid, anthropomorphic, or culturally resonant, but should not be assumed to share human priorities or ethics.<br>Information provided by intercessors is often incomplete, conditional, or framed through metaphor. Misinterpretation is a documented hazard.<br>(Common designations: Angels, Malakhim, Tennin, cultural refracted manifestations)</td>
     </tr>
     <tr>
-      <td>Powers</td>
-      <td>Warrior caste. Engage Infernals, rogue Thresholders, and parasitic High Concepts. High threat, but rarely hostile to humans unless obstructed.</td>
-    </tr>
-    <tr>
-      <td>Principalities</td>
-      <td>Regional metaphysical regulators. Associated with unstable nodes, ULEs and anomalous events along leylines their MS is connected. May deputize humans for local metaphysical balance.</td>
-    </tr>
-    <tr>
-      <td>Archangels</td>
-      <td>Often interpretive avatars of larger forces. Appear during apocalyptic tipping points or mass anomaly convergence. Rare and highly unstable.</td>
-    </tr>
-    <tr>
-      <td>Angels</td>
-      <td>Broad classification for humanoid or near-humanoid celestials. Not universally benevolent. Vary in motive, allegiance, and communicability.</td>
-    </tr>
-    <tr>
-      <td>Malakhim</td>
-      <td>Messengers or envoys. May deliver instructions, prophecies, or anomalies. Tend toward cryptic or symbol-laden communication. Occasionally harmless.</td>
-    </tr>
-    <tr>
-      <td>Sarim</td>
-      <td>Emit continuous harmonic field; known to affect heart rate, sleep, and brainwave patterns. Appears during large group events or worship rituals.</td>
-    </tr>
-    <tr>
-      <td>Deva</td>
-      <td>Frequently tied to celestial motion, timekeeping, or elemental equilibrium. Function disruption risks large-scale spatial destabilization or repercussions.</td>
-    </tr>
-    <tr>
-      <td>Tennin</td>
-      <td>Manifest through music, vibration, or synchronized dream-state phenomena. May provide guidance or misdirection depending on observer resonance.</td>
-    </tr>
-    <tr>
-      <td>Kami-Form</td>
-      <td>Localized metaphysical intelligences anchored to natural or cultural constructs. Sometimes benevolent, sometimes volatile if ignored or disrespected.</td>
-    </tr>
-    <tr>
-      <td>Garuda</td>
-      <td>Avian-shaped aerial celestials of enormous scale. Associated with wind and sun cycles. Recorded in Southeast Asian and Vedic myths.</td>
-    </tr>
-    <tr>
-      <td>Neteru</td>
-      <td>Egyptian-origin entities embodying cosmic principles. Manifests in dream-states or solar alignments, or when ancient loci are disturbed. Frequently misidentified as Infernals due to hybrid-animal morphology.</td>
+      <td>Cataclysmic Manifestations</td>
+      <td>Rare, large-scale Celestial events associated with systemic instability, mass anomaly convergence, or structural failure across Metaphysical Spaces. These manifestations are frequently misidentified as singular entities due to perceptual and reporting limitations.<br>Field presence is to be treated as confirmation of a critical-level event. Field Agents are not expected to resolve Cataclysmic Manifestations; containment, evacuation, and escalation protocols apply.<br>(Common designation: Archangel-level events)</td>
     </tr>
   </table>
 </details>
