@@ -770,10 +770,6 @@ Entities capable of mimicking biological lifeforms, particularly humans, with va
       <td>Traditionally associated with indigenous folklore, but confirmed cases suggest a broader class of entity capable of donning skins (literal or metaphorical) to assume new forms. Transformation is often incomplete or "sloppy", retaining elements of previous hosts. Often bound to specific ritual codes or prohibitions. Avoidance of eye contact and recognition rituals recommended.</td>
     </tr>
     <tr>
-      <td>Lycanthrope</td>
-      <td>While some are Para-Human (Touched, Ascendant or Legacy), most field-encountered lycanthropes classify as Simulacra Entities that simulate human-animal hybrid states for predatory, territorial or ritual purposes.<br>See: <b>Lycanthropes</b>, <b>Para-Humans</b></td>
-    </tr>
-    <tr>
       <td>Mimics</td>
       <td>Non-humanoid Simulacra that imitate objects or environments. Often mistaken for Amorphous Entities. Known to simulate doors, vending machines, animals, or even entire rooms. Ambush predators. Destruction often reveals non-terrestrial core material (e.g. bone lattice, magnetic jelly).</td>
     </tr>
@@ -871,6 +867,7 @@ Undead are defined by their origin. They are Entities exhibiting autonomous moti
     </tr>
   </table>
 </details>
+
 
 ## Vitavore
 Entities that consume non-physical essence such as Qi, prāṇa, emotions, or dream energy, as sustenance. Some possess corporeal form; others exist partially or entirely in an incorporeal state. Victims often report chronic fatigue, emotional instability, or identity erosion post exposure.
