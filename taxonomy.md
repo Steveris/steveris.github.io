@@ -519,7 +519,7 @@ Metaphysical constructs or emergent entities that embody ideas, paradigms, or ab
     </tr>
     <tr>
       <td>Numina</td>
-      Hyperreal ideals that bleed into the material world, often mistaken for Gods, muses, or universal archetypes. Their presence may enforce behavioral patterns or alter environmental parameters to match their domain (e.g. zones of enforced honesty, regions where only heroic action is possible).
+      <td>Hyperreal ideals that bleed into the material world, often mistaken for Gods, muses, or universal archetypes. Their presence may enforce behavioral patterns or alter environmental parameters to match their domain (e.g. zones of enforced honesty, regions where only heroic action is possible).</td>
     </tr>
     <tr>
       <td>Phoenix Aspect</td>
