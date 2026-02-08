@@ -194,7 +194,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
     </tr>
     <tr>
       <td>Chupacabra-Type</td>
-      <td>Small to medium-sized quadrupeds or bipedal creatures with exsanguination behavior. Typically prey on livestock. May be misidentified anomalous canid entities or artificially spawned via bio-occult rituals. See: <b>Hemovores</b></td>
+      <td>Small to medium-sized quadrupeds or bipedal creatures with exsanguination behavior. Typically prey on livestock. May be misidentified anomalous canid entities or artificially spawned via bio-occult rituals. <br>See: <b>Hemovores</b></td>
     </tr>
     <tr>
       <td>Mokele-Mbembe / Relict Fauna</td>
@@ -206,7 +206,7 @@ Cryptids are biologically anomalous entities typically located in remote, limina
     </tr>
     <tr>
       <td>Tunnel Men</td>
-      <td>Pale subterranean humanoids reported in mining collapses, forgotten bunkers, or abandoned urban infrastructure. Avoid light and contact; exhibit pack coordination and mimicry of human speech patterns. Some appear to interact with collapsed human societies or bio-echoes. See: <b>Humanoids</b></td>
+      <td>Pale subterranean humanoids reported in mining collapses, forgotten bunkers, or abandoned urban infrastructure. Avoid light and contact; exhibit pack coordination and mimicry of human speech patterns. Some appear to interact with collapsed human societies or bio-echoes. <br>See: <b>Humanoids</b></td>
     </tr>
     <tr>
       <td>Herald Cryptids (Mothman, Black Bird of Chernobyl, Owlman)</td>
@@ -314,7 +314,7 @@ A classification of Entities typically originating from strongly elementally att
     </tr>
     <tr>
       <td>Energy Elementals</td>
-      <td>Composed of volatile or radiant energies, including plasma, fire, electricity, or thermic resonance. These are typically unstable and possess high kinetic or thermal output. See: <b>Energy Beings</b></td>
+      <td>Composed of volatile or radiant energies, including plasma, fire, electricity, or thermic resonance. These are typically unstable and possess high kinetic or thermal output. <br>See: <b>Energy Beings</b></td>
     </tr>
     <tr>
       <td>Solid Elementals</td>
@@ -326,11 +326,11 @@ A classification of Entities typically originating from strongly elementally att
     </tr>
     <tr>
       <td>Atmospheric Elementals</td>
-      <td>Comprised of gaseous or meteorological components, such as wind, cloud, smoke, or stormfront patterns. Frequently misclassified under <b>High Concepts</b>, specifically <b>Sapient Storms</b>. <b>Atmospheric Elementals</b> are typically much smaller in scale, and have much lower levels of cognition. See: <b>High Concept</b></td>
+      <td>Comprised of gaseous or meteorological components, such as wind, cloud, smoke, or stormfront patterns. Frequently misclassified under <b>High Concepts</b>, specifically <b>Sapient Storms</b>. <b>Atmospheric Elementals</b> are typically much smaller in scale, and have much lower levels of cognition. <br>See: <b>High Concept</b></td>
     </tr>
     <tr>
       <td>High Concept Elementals</td>
-      <td>Rare class of Elementals formed around abstract, symbolic, or emotional constructs (e.g., pain, memory, decay, silence). Typically exhibit partial incorporeality and unpredictable behavior. Containment remains provisional in most cases. See: <b>High Concept</b></td>
+      <td>Rare class of Elementals formed around abstract, symbolic, or emotional constructs (e.g., pain, memory, decay, silence). Typically exhibit partial incorporeality and unpredictable behavior. Containment remains provisional in most cases. <br>See: <b>High Concept</b></td>
     </tr>
     <tr>
       <td>Synthetic Elementals</td>
@@ -354,11 +354,11 @@ Energy Beings are defined by composition. They are incorporeal or semi-corporeal
     </tr>
     <tr>
       <td>Spectres</td>
-      <td>Residual psychic or soul imprints with limited cognition, usually tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations. See: <b>Undead</b></td>
+      <td>Residual psychic or soul imprints with limited cognition, usually tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations. <br>See: <b>Undead</b></td>
     </tr>
     <tr>
       <td>Wraiths</td>
-      <td>Similar to spectres in the sense that they tend to be tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations. See: <b>Undead</b></td>
+      <td>Similar to spectres in the sense that they tend to be tied to emotional trauma or violent death. May exhibit repeated behavior loops or fixations. <br>See: <b>Undead</b></td>
     </tr>
     <tr>
       <td>Kinetic Resonants</td>
@@ -370,15 +370,15 @@ Energy Beings are defined by composition. They are incorporeal or semi-corporeal
     </tr>
     <tr>
       <td>Adze (Ewe, Ghana/Togo/Benin)</td>
-      <td>Vampiric spirit entity composed of spirit fire. Known for possession and energy drain behaviors. Notably capable of insectoid manifestations. See: <b>Vitavore</b></td>
+      <td>Vampiric spirit entity composed of spirit fire. Known for possession and energy drain behaviors. Notably capable of insectoid manifestations. <br>See: <b>Vitavore</b></td>
     </tr>
     <tr>
       <td>K'uei/Gui (China)</td>
-      <td>Disruptive ancestral spirits often arising from improper funerary rites or unjust death. May exhibit freezing auras, intense emotional projection, or locational hauntings. See: <b>Undead</b></td>
+      <td>Disruptive ancestral spirits often arising from improper funerary rites or unjust death. May exhibit freezing auras, intense emotional projection, or locational hauntings. <br>See: <b>Undead</b></td>
     </tr>
     <tr>
       <td>Churel (South-Asia - India, Pakistan, Bangladesh)</td>
-      <td>Vengeful spirit, typically female, formed from betrayal or childbirth related trauma. Capable of glammer, voice mimicry, and life-drain through eye contact. See: <b>Vitavore</b></td>
+      <td>Vengeful spirit, typically female, formed from betrayal or childbirth related trauma. Capable of glammer, voice mimicry, and life-drain through eye contact. <br>See: <b>Vitavore</b></td>
     </tr>
     <tr>
       <td>Plasmomorphs</td>
@@ -631,7 +631,7 @@ Entities broadly classified as originating from hostile, corrosive, or antitheti
     </tr>
     <tr>
       <td>Cambions</td>
-      <td>Human-Infernal hybrids often unaware of their lineage until stress, trauma, or exposure triggers latent traits. Abilities vary; infernal resilience, emotional manipulation, pyrokinetics, etc. Social stability risk increases with denial of heritage. Classified as Para-Human (Legacy) unless exhibiting manifest possession or irreversible transfiguration. See: <b>Para-Human</b></td>
+      <td>Human-Infernal hybrids often unaware of their lineage until stress, trauma, or exposure triggers latent traits. Abilities vary; infernal resilience, emotional manipulation, pyrokinetics, etc. Social stability risk increases with denial of heritage. Classified as Para-Human (Legacy) unless exhibiting manifest possession or irreversible transfiguration. <br>See: <b>Para-Human</b></td>
     </tr>
     <tr>
       <td>Imp</td>
@@ -707,7 +707,7 @@ Entities exhibiting cyclical or trigger based shapeshifting, typically between h
     </tr>
     <tr>
       <td>Pricolici (Romanian)</td>
-      <td>NHEs that combine aspects of Lycanthrope and revenant. Often appear as undead werewolves that return post mortem to continue predation. Pricolici are strongly associated with necrotic MS exposure and anomalous soul binding phenomena. See: <b>Undead</b></td>
+      <td>NHEs that combine aspects of Lycanthrope and revenant. Often appear as undead werewolves that return post mortem to continue predation. Pricolici are strongly associated with necrotic MS exposure and anomalous soul binding phenomena. <br>See: <b>Undead</b></td>
     </tr>
     <tr>
       <td>Nahual (Aztec/Mayan)</td>
@@ -827,7 +827,7 @@ Also known as Limen-Class Entities, Threshold Entities exist between stable laye
     </tr>
     <tr>
       <td>Threshold Harbingers</td>
-      <td>Advanced or higher-order Threshold Entities that precede major metaphysical realignments. Typically non-hostile, but their presence correlates with veil-thinning, incursion events, or systemic crossfade phenomena. May share origins or behaviors with Herald Cryptids. See: <b>Cryptids</b></td>
+      <td>Advanced or higher-order Threshold Entities that precede major metaphysical realignments. Typically non-hostile, but their presence correlates with veil-thinning, incursion events, or systemic crossfade phenomena. May share origins or behaviors with Herald Cryptids. <br>See: <b>Cryptids</b></td>
     </tr>
   </table>
 </details>
@@ -852,15 +852,15 @@ Undead are defined by their origin. They are Entities exhibiting autonomous moti
     </tr>
     <tr>
       <td>Zombie</td>
-      <td>Typically mas-generated by necroviral anomalies, rituals, or ambient death saturation. Limited cognition. Behaviors include swarming, grasping and biting. Slow individually, but dangerous in numbers. Fire, dismemberment or disruption of necrotic energy field advised. See: <b>Artificial</b></td>
+      <td>Typically mas-generated by necroviral anomalies, rituals, or ambient death saturation. Limited cognition. Behaviors include swarming, grasping and biting. Slow individually, but dangerous in numbers. Fire, dismemberment or disruption of necrotic energy field advised. <br>See: <b>Artificial</b></td>
     </tr>
     <tr>
         <td>Vampire</td>
-        <td>Not all Vampires are Undead, but many are. See: <b>Hemovores</b> or <b>Vitavores</b></td>
+        <td>Not all Vampires are Undead, but many are. <br>See: <b>Hemovores</b> or <b>Vitavores</b></td>
     </tr>
     <tr>
       <td>Skeleton</td>
-      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to military-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies. See: <b>Artificial</b></td>
+      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to military-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies. <br>See: <b>Artificial</b></td>
     </tr>
     <tr>
       <td>Ghosts</td>
