@@ -855,11 +855,11 @@ Undead are defined by their origin. They are Entities exhibiting autonomous moti
     </tr>
     <tr>
         <td>Vampire</td>
-        <td>Not all Vampires are Undead, but many are.<br>See: <b>Hemovores</b> or <b>Vitavores</b></td>
+        <td>Not all Vampires are Undead, but many are.<br>See: <b>Hemovores</b> or <b>Vitavores</b></br></td>
     </tr>
     <tr>
       <td>Skeleton</td>
-      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to military-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies.<br>See: <b>Artificial</b></td>
+      <td>Animated bone structures, often via ritual or ambient necromancy. Vary in complexity from simple automatons to military-form coordination. Fragile but persistent. Known to reuse broken components from other skeletons to host bodies.<br>See: <b>Artificial</b></br></td>
     </tr>
     <tr>
       <td>Ghosts</td>
@@ -868,4 +868,38 @@ Undead are defined by their origin. They are Entities exhibiting autonomous moti
   </table>
 </details>
 
-
+## Vitavore
+Entities that consume non-physical essence such as Qi, prāṇa, emotions, or dream energy, as sustenance. Some possess corporeal form; others exist partially or entirely in an incorporeal state. Victims often report chronic fatigue, emotional instability, or identity erosion post exposure.
+<img src="/assets/images/vitavores.jpg"> 
+<details><summary><b>SUBTYPES</b></summary>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>Jiangshi (China)</td>
+      <td>Rigid, hopping cadavers drawn to vital Qi. Sensory focus on breath or warmth. Feeding typically lethal; commonly attracted to areas within strong geomantic imbalance.</td>
+    </tr>
+    <tr>
+      <td>Alp (Germanic)</td>
+      <td>Dream feeding parasite manifesting during sleep paralysis. Consumes rest, joy, and psychic integrity. Associated with nightmares, sexual predatoin, and infant feeding behaviors.</td>
+    </tr>
+    <tr>
+      <td>Bhūta (Hindu Folklore)</td>
+      <td>Spirit entities consuming prāṇa. Often remain near site of death or trauma. May exhibit moral neutrality unless threatened or disrespected.</td>
+    </tr>
+    <tr>
+      <td>Vetala (Indian subcontinent)</td>
+      <td>Spirits that occupy corpses to remain within the physical world. Feed on soul-essence. Disrupt local death energy cycles. Frequently hostile to containment.</td>
+    </tr>
+    <tr>
+      <td>Draugr (Norse)</td>
+      <td>Animated corpses of warriors or chieftains. Leech vitality and fortitude. Tend to hoard metaphysical territory and manifest in cold, resonant zones.</td>
+    </tr>
+    <tr>
+      <td>Baku (East Asia)</td>
+      <td>MS-native dream eaters. Feed on dreams, nightmares, or emotional repression. Symbiotic variants may protect hosts from psychic trauma. Predatory variants induce delusions or sleep deprivation to harvest more energy.</td>
+    </tr>
+  </table>
+</details>
