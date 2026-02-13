@@ -92,8 +92,7 @@ Entities intentionally or accidentally created through non-natural means, typica
 </details>
 
 ## Celestial
-Celestials are metaphysical entities originating from high-order or structurally stable Metaphysical Spaces (MS), historically interpreted by human cultures as angels, divine spirits, or intermediaries. Despite persistent theological conflation, Celestials are not associated with death processing, afterlife systems, or the Spirit Realm.  
-Observed Celestial behavior suggests functional alignment with systemic regulation, boundary enforcement, or metaphysical load-balancing within their native MS. Celestials do not operate according to human ethical frameworks; any perceived benevolence is incidental to function rather than intent. Alignment with human values is situational, temporary, and unreliable.
+Celestials are entities originating from high-order, structurally stable Metaphysical Spaces (MS), historically interpreted by human cultures as angels or divine intermediaries. They are not associated with death-processing systems or the Spirit Realm. Observed behavior indicates functional alignment with structural regulation, boundary enforcement, or systemic stabilization; apparent benevolence or hostility should be treated as incidental to function rather than moral intent. Alignment with human values is incidental.
 <img src="/assets/images/celestial.jpg"> 
 <details><summary><b>SUBTYPES</b></summary>
   <table>
